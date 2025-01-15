@@ -1,0 +1,1002 @@
+Fish Name,Fish Family,Region,Season,Is Sustainable,Best Month,Worst Month,Number of Fish per m2,Population Number,Fish Consumption Rate (kg/year),Mortality Rate (%),Cause of Threatening,Threatened,Pollution Level,Threat Level Percentage
+Anthias,Serranidae,East Coast,Summer,Yes,November,February,1.48,2431,34.38,7.752388678,Overfishing,No,2,65.61686242
+Clownfish,Pomacentridae,East Coast,Fall,No,October,July,3.09,2768,23.73,7.083217846,Pollution,No,1,100
+Grouper,Serranidae,East Coast,Winter,Yes,February,December,1.7,739,5.4,14.81897088,Climate Change,Yes,9,100
+Mackerel,Scombridae,West Coast,Winter,Yes,November,October,3.54,446,10.41,15.30833867,,Yes,10,100
+Grayling,Salmonidae,Both Coasts,Spring,Yes,February,October,3.17,998,27.06,10.97322849,Habitat Destruction,Yes,6,39.89422303
+Chromis,Pomacentridae,East Coast,Spring,Yes,September,October,4.34,897,19.99,9.970283919,,Yes,7,40.72516151
+Chromis,Pomacentridae,East Coast,Winter,No,March,January,1.92,732,42.76,14.23627542,Habitat Destruction,Yes,10,100
+Mackerel,Scombridae,West Coast,Spring,No,March,December,3.01,2533,44.73,2.675528286,,No,1,100
+Jobfish,Lutjanidae,West Coast,Winter,Yes,November,July,4.86,527,47.65,16.02227376,,Yes,10,100
+Comber,Serranidae,East Coast,Fall,No,June,July,4.87,751,40.08,19.79542876,Habitat Destruction,Yes,9,100
+Mahogany Snapper,Lutjanidae,West Coast,Fall,Yes,November,January,2.1,291,17.18,13.98397552,Habitat Destruction,Yes,8,63.32201283
+Anthias,Serranidae,East Coast,Summer,Yes,March,April,1.27,674,40.52,18.60461255,Climate Change,Yes,8,100
+Tuna,Scombridae,West Coast,Summer,No,March,May,2.58,1735,4.13,2.052120195,,No,4,100
+Damselfish,Pomacentridae,East Coast,Fall,No,September,November,3.1,1576,19.92,3.622249349,,No,4,100
+Sole,Pleuronectidae,West Coast,Spring,No,January,May,4.09,2091,3.39,5.644376679,Habitat Destruction,No,3,100
+Emperor,Lutjanidae,West Coast,Fall,No,February,May,1.08,124,30.63,16.34283619,Climate Change,Yes,8,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,July,November,4.47,912,47.3,8.967101422,,Yes,7,100
+Halibut,Pleuronectidae,West Coast,Fall,No,November,June,3.47,432,29.3,12.13353323,Climate Change,Yes,10,100
+Kingfish,Scombridae,West Coast,Summer,Yes,September,August,4.63,149,46.18,18.41050283,Climate Change,Yes,9,78.97566662
+Comber,Serranidae,East Coast,Fall,No,March,November,0.19,1090,32.88,9.969811491,,No,6,55.62619609
+Kingfish,Scombridae,West Coast,Spring,Yes,July,May,3.68,813,12.07,8.931330215,Overfishing,Yes,7,58.85281979
+Bonito,Scombridae,West Coast,Summer,Yes,June,December,3.68,3000,26.13,4.525802303,Overfishing,No,3,100
+Char,Salmonidae,Both Coasts,Spring,No,May,October,0.87,2346,12.46,3.271818558,Climate Change,No,2,44.67499509
+Grouper,Serranidae,East Coast,Spring,Yes,December,June,3.42,2008,47.67,5.897718695,Pollution,No,1,100
+Comber,Serranidae,East Coast,Summer,No,February,December,4.73,1242,33.63,10.60936607,,Yes,7,100
+Comber,Serranidae,East Coast,Summer,No,January,October,2.34,1054,48.19,11.61105857,Habitat Destruction,Yes,7,39.90088267
+Sergeant Major,Pomacentridae,East Coast,Spring,No,January,June,3.7,921,4.86,11.02798746,Pollution,Yes,7,100
+Plaice,Pleuronectidae,West Coast,Winter,No,July,September,3.11,2317,43.42,6.291337389,Habitat Destruction,No,4,100
+Sea Bass,Serranidae,East Coast,Summer,No,March,December,3.53,715,32.91,15.83015479,Climate Change,Yes,10,100
+Comber,Serranidae,East Coast,Spring,Yes,November,February,3.2,665,3.94,16.06567852,Climate Change,Yes,8,100
+Grayling,Salmonidae,Both Coasts,Fall,Yes,June,August,0.74,2407,23.88,3.53748142,,No,2,100
+Halibut,Pleuronectidae,West Coast,Spring,No,November,June,0.92,2203,32.75,2.404311508,Habitat Destruction,No,3,100
+Mackerel,Scombridae,West Coast,Spring,No,October,March,4.24,279,24.72,18.88728627,Overfishing,Yes,10,100
+Sole,Pleuronectidae,West Coast,Spring,Yes,August,April,4.38,1845,37.7,4.25703255,Overfishing,No,4,90.31931821
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,August,October,4.34,1426,3.29,10.70252926,Habitat Destruction,No,6,100
+Char,Salmonidae,Both Coasts,Fall,Yes,May,February,2.72,2238,16.58,5.185606597,Habitat Destruction,No,4,41.88676318
+Flounder,Pleuronectidae,West Coast,Fall,Yes,November,May,1.92,225,20.64,19.5286695,Overfishing,Yes,10,70.80245007
+Snapper,Lutjanidae,West Coast,Spring,Yes,April,March,0.15,891,28.22,11.46499106,Pollution,Yes,5,100
+Halibut,Pleuronectidae,West Coast,Spring,No,May,August,4.41,965,19.96,10.33440892,Habitat Destruction,Yes,5,63.06122591
+Kingfish,Scombridae,West Coast,Fall,No,November,May,3.54,1187,24.51,10.79876121,Habitat Destruction,Yes,7,100
+Salmon,Salmonidae,Both Coasts,Fall,No,June,February,0.31,863,48.15,10.52932659,Pollution,Yes,7,88.55459598
+Flounder,Pleuronectidae,West Coast,Winter,Yes,November,February,0.53,1697,48.17,6.941138952,Pollution,No,3,83.1163716
+Kingfish,Scombridae,West Coast,Winter,No,August,September,0.52,214,32.83,19.04762656,Habitat Destruction,Yes,10,100
+Comber,Serranidae,East Coast,Winter,Yes,October,July,2.51,622,9.43,14.61370717,Habitat Destruction,Yes,9,100
+Kingfish,Scombridae,West Coast,Summer,Yes,April,October,1.48,2776,23.59,6.258084938,Habitat Destruction,No,2,38.99441281
+Tuna,Scombridae,West Coast,Fall,No,May,January,1.76,1778,25.88,7.501152717,Pollution,No,2,99.54526051
+Mahogany Snapper,Lutjanidae,West Coast,Winter,No,October,September,0.39,2945,25.55,3.673201968,Pollution,No,3,100
+Salmon,Salmonidae,Both Coasts,Spring,No,February,September,4.36,365,39.86,17.99162125,Climate Change,Yes,8,100
+Grayling,Salmonidae,Both Coasts,Summer,No,December,November,0.18,1208,26.29,9.881878479,Habitat Destruction,No,6,100
+Mahogany Snapper,Lutjanidae,West Coast,Winter,No,April,November,2.89,2855,39.43,5.970695491,Habitat Destruction,No,1,100
+Mackerel,Scombridae,West Coast,Summer,No,December,July,3.58,1663,3.14,6.231115692,,No,1,100
+Grouper,Serranidae,East Coast,Winter,No,September,July,1.58,1169,4.18,8.871599984,Habitat Destruction,No,5,74.46289667
+Halibut,Pleuronectidae,West Coast,Winter,No,November,July,3.21,241,26.65,18.28490945,Habitat Destruction,Yes,8,90.85828911
+Bonito,Scombridae,West Coast,Winter,Yes,July,January,1.83,2619,45.76,3.933212508,,No,2,100
+Jobfish,Lutjanidae,West Coast,Spring,Yes,December,April,3.47,1783,18.4,2.851265242,Pollution,No,1,61.0511123
+Sea Bass,Serranidae,East Coast,Spring,Yes,January,May,2.2,824,47.54,11.1489759,Pollution,Yes,7,100
+Sole,Pleuronectidae,West Coast,Summer,Yes,June,November,1.86,2609,44.86,6.489070039,Overfishing,No,3,100
+Bonito,Scombridae,West Coast,Summer,No,October,November,4.76,2370,17.98,7.504429345,Pollution,No,2,100
+Char,Salmonidae,Both Coasts,Winter,No,March,December,0.79,273,8.71,13.74874265,,Yes,10,100
+Halibut,Pleuronectidae,West Coast,Summer,Yes,September,December,2.38,115,42.51,17.0661706,Climate Change,Yes,9,100
+Halibut,Pleuronectidae,West Coast,Summer,No,October,January,0.57,963,8,9.241548198,Overfishing,No,6,39.45985361
+Flounder,Pleuronectidae,West Coast,Spring,No,February,June,2.02,1321,25.56,9.865747208,Climate Change,No,6,100
+Clownfish,Pomacentridae,East Coast,Spring,Yes,March,April,0.77,2466,44.92,6.414405388,Climate Change,No,1,69.10000368
+Comber,Serranidae,East Coast,Winter,Yes,July,October,4.66,157,6.97,13.10940706,Overfishing,Yes,9,65.97603935
+Tuna,Scombridae,West Coast,Summer,Yes,May,April,1.59,562,46.11,15.32031138,Overfishing,Yes,9,100
+Kingfish,Scombridae,West Coast,Summer,No,June,April,2.85,856,15.92,8.76190099,Habitat Destruction,Yes,7,100
+Sea Bass,Serranidae,East Coast,Summer,No,May,September,1.55,2895,39.87,3.166600628,Pollution,No,4,100
+Chromis,Pomacentridae,East Coast,Spring,Yes,March,May,3.62,1437,47.92,9.776907102,Pollution,No,7,64.77170991
+Char,Salmonidae,Both Coasts,Winter,Yes,November,July,1.65,1282,38.72,8.059033207,,No,7,100
+Anthias,Serranidae,East Coast,Fall,No,July,August,1.05,1125,28.98,9.458585251,Pollution,No,7,100
+Kingfish,Scombridae,West Coast,Spring,No,November,July,1.99,1458,48.88,9.797685954,Overfishing,No,5,100
+Grayling,Salmonidae,Both Coasts,Spring,Yes,March,December,4.84,256,8.72,19.85827444,Pollution,Yes,9,100
+Emperor,Lutjanidae,West Coast,Summer,No,November,May,2.14,2316,43.21,4.351228227,Habitat Destruction,No,3,100
+Tuna,Scombridae,West Coast,Fall,Yes,February,May,4.12,2269,18.65,4.28094396,Overfishing,No,1,100
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,April,August,0.92,1161,34.11,9.155125649,Pollution,No,5,100
+Char,Salmonidae,Both Coasts,Summer,No,August,October,0.21,2877,19.43,3.778621357,Pollution,No,4,64.07313982
+Halibut,Pleuronectidae,West Coast,Summer,No,October,September,3.19,407,18.61,19.56659187,,Yes,8,100
+Mackerel,Scombridae,West Coast,Fall,No,December,February,0.83,1700,22.72,6.132450193,Climate Change,No,1,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,May,October,1.22,2788,10.73,4.899425927,Habitat Destruction,No,4,100
+Clownfish,Pomacentridae,East Coast,Spring,Yes,March,September,0.14,2801,41.15,6.644734324,Habitat Destruction,No,1,76.77833457
+Trout,Salmonidae,Both Coasts,Winter,Yes,March,November,2.19,2259,7.11,7.349860102,Habitat Destruction,No,4,100
+Damselfish,Pomacentridae,East Coast,Summer,Yes,June,October,3.99,2729,30.24,3.119659031,Pollution,No,4,100
+Halibut,Pleuronectidae,West Coast,Fall,Yes,July,March,3.31,803,43.9,8.675567531,Pollution,Yes,6,41.6642087
+Grouper,Serranidae,East Coast,Summer,No,August,November,4.75,2904,18.27,7.148137534,Overfishing,No,3,100
+Trout,Salmonidae,Both Coasts,Fall,Yes,November,October,2.96,154,42.57,16.67480574,Habitat Destruction,Yes,10,100
+Kingfish,Scombridae,West Coast,Fall,No,April,July,2.31,1253,19.76,9.222060218,Pollution,No,7,100
+Snapper,Lutjanidae,West Coast,Fall,Yes,April,August,2.5,2601,10.35,7.594909896,,No,4,100
+Trout,Salmonidae,Both Coasts,Spring,Yes,February,May,4.97,1701,10.69,6.311933317,Overfishing,No,1,51.54034283
+Salmon,Salmonidae,Both Coasts,Summer,Yes,May,December,4.01,834,25.3,9.084852771,,Yes,6,98.35078554
+Char,Salmonidae,Both Coasts,Spring,Yes,April,March,4.24,1502,1.77,3.669152029,,No,3,84.51195172
+Damselfish,Pomacentridae,East Coast,Winter,No,May,September,1.22,1566,46.55,4.504075854,Pollution,No,4,100
+Mahogany Snapper,Lutjanidae,West Coast,Spring,No,April,July,3.2,2131,48.39,2.727937703,,No,2,100
+Grayling,Salmonidae,Both Coasts,Winter,No,October,June,4.37,767,7.44,19.83574392,Climate Change,Yes,9,100
+Anthias,Serranidae,East Coast,Winter,No,May,February,1.9,1300,23.18,8.541323504,Habitat Destruction,No,6,43.43767023
+Jobfish,Lutjanidae,West Coast,Winter,Yes,August,February,1.37,804,13.28,11.17002048,Overfishing,Yes,5,100
+Clownfish,Pomacentridae,East Coast,Fall,Yes,April,August,3.09,473,48.78,16.13421846,Climate Change,Yes,9,86.3399923
+Salmon,Salmonidae,Both Coasts,Fall,No,September,January,2.63,613,24.78,17.66229746,Overfishing,Yes,10,100
+Mahogany Snapper,Lutjanidae,West Coast,Winter,No,December,June,1.47,2377,23.85,7.276530089,Habitat Destruction,No,2,100
+Damselfish,Pomacentridae,East Coast,Fall,No,August,January,2.82,2502,8.49,4.137133002,Overfishing,No,3,100
+Trout,Salmonidae,Both Coasts,Winter,No,February,May,2.43,437,8.2,17.04044671,Overfishing,Yes,9,100
+Trout,Salmonidae,Both Coasts,Spring,Yes,June,July,2.71,2049,33.42,5.328135825,Climate Change,No,1,100
+Damselfish,Pomacentridae,East Coast,Spring,No,January,February,1.64,1446,6,9.583804106,,No,5,100
+Sole,Pleuronectidae,West Coast,Fall,No,August,September,1.09,778,47.39,15.48610849,Habitat Destruction,Yes,10,31.12626415
+Salmon,Salmonidae,Both Coasts,Spring,Yes,November,March,1.68,277,38.82,18.34416064,Habitat Destruction,Yes,9,100
+Jobfish,Lutjanidae,West Coast,Summer,No,June,August,0.5,1741,49.5,7.990011383,Overfishing,No,4,100
+Salmon,Salmonidae,Both Coasts,Spring,Yes,November,April,4.64,2576,4.31,3.170404478,,No,1,51.57007284
+Mackerel,Scombridae,West Coast,Fall,Yes,January,June,3.93,684,37.08,18.03024204,Pollution,Yes,9,69.8249589
+Sergeant Major,Pomacentridae,East Coast,Spring,Yes,February,December,0.94,1609,20.84,5.348812318,Habitat Destruction,No,4,69.2636078
+Bonito,Scombridae,West Coast,Winter,No,August,September,0.63,2987,16.82,7.013576782,Overfishing,No,3,100
+Damselfish,Pomacentridae,East Coast,Spring,Yes,February,October,2.34,1451,18.04,9.099774526,Pollution,No,5,100
+Salmon,Salmonidae,Both Coasts,Fall,Yes,January,September,2.5,2448,40.76,4.267265193,Habitat Destruction,No,1,100
+Jobfish,Lutjanidae,West Coast,Winter,No,April,August,0.85,2322,19.17,7.021270234,Overfishing,No,1,100
+Trout,Salmonidae,Both Coasts,Spring,No,January,November,1.69,2503,20.23,6.563425201,Habitat Destruction,No,2,100
+Grouper,Serranidae,East Coast,Spring,No,December,April,0.32,516,41.74,15.71547973,Habitat Destruction,Yes,10,77.2812173
+Salmon,Salmonidae,Both Coasts,Spring,Yes,August,December,0.3,1376,36.23,9.159169528,Overfishing,No,6,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,May,August,4.16,2587,17.63,3.899869968,,No,4,100
+Bonito,Scombridae,West Coast,Spring,Yes,April,January,4.18,2698,1.92,6.432311504,Habitat Destruction,No,1,100
+Trout,Salmonidae,Both Coasts,Spring,No,November,January,4.44,1603,38.77,6.65024924,Habitat Destruction,No,3,100
+Bonito,Scombridae,West Coast,Fall,No,March,April,2.79,1138,45.47,10.89504895,Overfishing,Yes,6,100
+Snapper,Lutjanidae,West Coast,Winter,No,November,April,2.99,2614,41.37,3.846308475,Pollution,No,3,100
+Plaice,Pleuronectidae,West Coast,Summer,No,September,February,1.41,1283,18.4,10.53300033,Habitat Destruction,No,6,23.17822687
+Clownfish,Pomacentridae,East Coast,Spring,Yes,February,January,1.82,1794,26.57,4.817565408,,No,4,55.6641063
+Sole,Pleuronectidae,West Coast,Spring,No,August,May,0.47,919,19.11,11.36977317,Climate Change,Yes,5,100
+Sole,Pleuronectidae,West Coast,Spring,No,April,March,4.93,1741,38.68,5.397337518,,No,2,100
+Halibut,Pleuronectidae,West Coast,Spring,Yes,August,March,1.45,1722,25.86,5.655944462,Climate Change,No,4,62.76783938
+Bonito,Scombridae,West Coast,Spring,No,November,May,0.54,694,17.96,18.28128847,Pollution,Yes,8,100
+Salmon,Salmonidae,Both Coasts,Summer,No,January,November,3.52,262,9.61,15.88892324,Climate Change,Yes,8,100
+Anthias,Serranidae,East Coast,Winter,No,June,October,1.14,582,14.53,17.69125009,Climate Change,Yes,10,100
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,May,April,2.38,2583,4.14,6.335808088,Overfishing,No,1,100
+Plaice,Pleuronectidae,West Coast,Fall,Yes,May,February,3.05,653,38.73,16.20419441,Habitat Destruction,Yes,9,100
+Mackerel,Scombridae,West Coast,Spring,Yes,January,April,0.84,897,24.65,11.618757,Habitat Destruction,Yes,7,100
+Grayling,Salmonidae,Both Coasts,Summer,No,May,February,3.21,2572,34.11,6.755080046,Habitat Destruction,No,4,100
+Tuna,Scombridae,West Coast,Summer,Yes,July,March,4.31,1126,18.47,8.254986912,Pollution,No,5,57.49385007
+Chromis,Pomacentridae,East Coast,Fall,Yes,April,November,0.55,616,1.26,16.64295009,Climate Change,Yes,8,100
+Grayling,Salmonidae,Both Coasts,Fall,Yes,June,February,3.18,2728,7.07,5.705614899,Pollution,No,1,100
+Chromis,Pomacentridae,East Coast,Spring,No,November,February,3.81,1083,28.05,9.081843828,Climate Change,No,5,100
+Comber,Serranidae,East Coast,Winter,No,February,May,0.58,142,29.94,19.20343535,,Yes,10,100
+Snapper,Lutjanidae,West Coast,Fall,No,May,December,4.5,2280,23.68,2.140567697,,No,2,50.24387879
+Grayling,Salmonidae,Both Coasts,Summer,No,November,August,2.47,1464,31.5,10.65704896,Climate Change,Yes,6,100
+Grouper,Serranidae,East Coast,Winter,No,December,June,2.52,2723,8.34,5.352602115,,No,1,100
+Chromis,Pomacentridae,East Coast,Winter,No,June,January,1.02,442,44.57,13.91726926,,Yes,9,58.68402804
+Kingfish,Scombridae,West Coast,Winter,Yes,August,December,1.43,2506,45.67,3.822167871,Overfishing,No,1,100
+Snapper,Lutjanidae,West Coast,Summer,Yes,March,November,3.84,617,10.16,15.94872824,Overfishing,Yes,10,100
+Comber,Serranidae,East Coast,Summer,Yes,July,November,3.79,425,33.33,17.49029824,Overfishing,Yes,8,100
+Flounder,Pleuronectidae,West Coast,Spring,No,May,August,4.1,1013,19.2,10.7302794,Climate Change,Yes,6,88.58123155
+Kingfish,Scombridae,West Coast,Spring,No,September,February,2.34,373,22.05,15.73723518,Climate Change,Yes,9,53.70743237
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,March,July,2.16,1877,49.66,3.246788199,Pollution,No,2,100
+Trout,Salmonidae,Both Coasts,Fall,Yes,March,November,4.37,2092,27.87,3.460431136,Overfishing,No,1,30.01601407
+Grayling,Salmonidae,Both Coasts,Fall,No,November,October,0.82,833,16.28,8.467887487,,No,5,100
+Kingfish,Scombridae,West Coast,Winter,Yes,June,July,0.1,636,41.19,13.31692572,Climate Change,Yes,10,100
+Char,Salmonidae,Both Coasts,Summer,No,November,June,0.74,1677,48.02,5.595362916,Habitat Destruction,No,1,77.51144966
+Sole,Pleuronectidae,West Coast,Summer,Yes,June,September,2.14,357,23.67,18.13126732,Pollution,Yes,10,50.32298401
+Plaice,Pleuronectidae,West Coast,Spring,Yes,January,December,0.51,620,6.86,12.92489888,Overfishing,Yes,8,39.12373107
+Grayling,Salmonidae,Both Coasts,Fall,Yes,January,November,0.48,1392,5.88,11.10525497,,No,5,100
+Snapper,Lutjanidae,West Coast,Spring,Yes,February,June,1.96,1201,29.9,8.73874632,Habitat Destruction,No,5,100
+Grayling,Salmonidae,Both Coasts,Spring,No,July,December,2.86,1429,34.24,11.45179166,Overfishing,Yes,7,100
+Damselfish,Pomacentridae,East Coast,Spring,No,July,February,3.09,339,21.95,18.62577109,Climate Change,Yes,9,100
+Snapper,Lutjanidae,West Coast,Summer,Yes,November,January,3.23,1588,27.56,5.254042168,Pollution,No,3,100
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,November,September,1.88,743,6.03,13.11882156,,Yes,8,35.12245823
+Anthias,Serranidae,East Coast,Spring,No,October,December,0.51,1944,48.24,5.978934847,Pollution,No,3,100
+Salmon,Salmonidae,Both Coasts,Spring,Yes,February,June,2.21,416,44.28,13.97763247,Habitat Destruction,Yes,10,100
+Damselfish,Pomacentridae,East Coast,Winter,No,July,November,0.43,1909,19.74,5.951674904,,No,1,83.09234694
+Emperor,Lutjanidae,West Coast,Spring,Yes,December,June,1.07,1016,37.17,10.49446069,Pollution,Yes,5,100
+Trout,Salmonidae,Both Coasts,Summer,Yes,May,September,3.76,2335,10.65,4.738847075,Pollution,No,2,100
+Emperor,Lutjanidae,West Coast,Summer,Yes,September,November,1.73,2544,6.55,7.06455035,,No,1,100
+Bonito,Scombridae,West Coast,Fall,No,January,September,2.55,1017,46.39,11.10636341,Overfishing,Yes,5,100
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,December,September,2.06,434,38.31,18.08542443,,Yes,10,69.45052546
+Sea Bass,Serranidae,East Coast,Summer,No,November,October,4.9,1077,32.83,9.262808726,Overfishing,No,5,100
+Grouper,Serranidae,East Coast,Summer,Yes,September,March,0.41,858,5.87,8.184430947,Pollution,No,6,40.2215023
+Salmon,Salmonidae,Both Coasts,Winter,Yes,July,October,3.64,2632,31.8,4.316461979,Climate Change,No,4,100
+Salmon,Salmonidae,Both Coasts,Spring,No,May,April,4.46,2782,9.42,3.000465063,,No,2,20.06300276
+Sea Bass,Serranidae,East Coast,Spring,Yes,November,March,0.87,2678,3.4,5.206408584,,No,1,63.20214953
+Snapper,Lutjanidae,West Coast,Winter,No,January,April,3.19,1275,10.65,9.201889961,Overfishing,No,7,70.95078677
+Trout,Salmonidae,Both Coasts,Summer,No,April,November,0.48,299,7.09,13.87315165,Climate Change,Yes,9,100
+Sergeant Major,Pomacentridae,East Coast,Winter,Yes,August,February,4.83,2790,12.08,5.632023414,Overfishing,No,3,61.18734343
+Mackerel,Scombridae,West Coast,Fall,Yes,January,September,1.89,2049,7.49,3.696298377,,No,4,57.20763983
+Clownfish,Pomacentridae,East Coast,Winter,Yes,May,October,4.22,1161,28.74,9.428392686,Pollution,No,7,100
+Trout,Salmonidae,Both Coasts,Fall,Yes,March,October,0.42,2684,48.19,7.093831153,Climate Change,No,2,100
+Jobfish,Lutjanidae,West Coast,Summer,No,November,July,4.11,1136,49.42,8.603208405,Pollution,No,7,87.69085078
+Salmon,Salmonidae,Both Coasts,Fall,No,December,May,0.55,2025,5.06,4.580392381,Pollution,No,4,100
+Bonito,Scombridae,West Coast,Spring,No,June,April,0.64,1310,14.84,10.47631218,Climate Change,Yes,7,100
+Anthias,Serranidae,East Coast,Summer,No,July,September,0.76,138,30.22,17.3952292,Habitat Destruction,Yes,8,100
+Plaice,Pleuronectidae,West Coast,Spring,Yes,January,March,1.87,2483,39.25,6.843749883,Overfishing,No,4,62.6839554
+Snapper,Lutjanidae,West Coast,Fall,Yes,November,December,4.42,2170,47.93,6.19164192,Climate Change,No,3,71.61371717
+Kingfish,Scombridae,West Coast,Fall,No,October,January,3.21,1392,6.5,9.83897069,Pollution,No,7,61.10998807
+Flounder,Pleuronectidae,West Coast,Winter,No,March,February,3.9,1134,45.96,9.636658783,Overfishing,No,7,100
+Trout,Salmonidae,Both Coasts,Spring,Yes,March,October,2.51,2513,42.62,7.895754081,Habitat Destruction,No,3,100
+Salmon,Salmonidae,Both Coasts,Fall,No,February,June,4.15,1178,24.91,9.076858574,Climate Change,No,6,100
+Grouper,Serranidae,East Coast,Winter,No,August,October,4.47,494,38.2,19.6792505,Climate Change,Yes,9,69.72253794
+Trout,Salmonidae,Both Coasts,Summer,Yes,January,August,4.25,565,40.72,16.09508719,Climate Change,Yes,10,100
+Chromis,Pomacentridae,East Coast,Summer,No,October,August,0.41,1024,38.37,11.34602673,Pollution,Yes,7,100
+Sergeant Major,Pomacentridae,East Coast,Fall,Yes,April,December,4.33,1652,48.69,2.637010147,Overfishing,No,1,100
+Kingfish,Scombridae,West Coast,Fall,Yes,April,December,0.29,345,47.24,17.58753117,Pollution,Yes,10,100
+Mackerel,Scombridae,West Coast,Fall,No,October,August,4.52,911,2.54,10.53685855,Overfishing,Yes,7,100
+Sergeant Major,Pomacentridae,East Coast,Fall,Yes,November,October,1.1,933,47.01,10.06555833,Climate Change,Yes,7,90.15927774
+Sea Bass,Serranidae,East Coast,Winter,No,September,December,2.47,2468,44.88,4.690896284,Pollution,No,1,100
+Chromis,Pomacentridae,East Coast,Summer,Yes,March,May,0.75,2141,32.1,6.273840588,Habitat Destruction,No,4,100
+Plaice,Pleuronectidae,West Coast,Summer,Yes,May,September,2.45,1001,36.5,11.60451632,Pollution,Yes,5,100
+Grouper,Serranidae,East Coast,Fall,No,October,January,0.49,545,42.39,17.699323,Pollution,Yes,8,100
+Halibut,Pleuronectidae,West Coast,Fall,No,November,February,1.47,1060,11.12,9.649204824,,No,6,100
+Salmon,Salmonidae,Both Coasts,Fall,No,April,December,0.63,845,25.37,8.800699473,Climate Change,Yes,7,34.96738224
+Halibut,Pleuronectidae,West Coast,Winter,No,June,October,3.58,483,45.93,12.63287859,Climate Change,Yes,8,61.82311849
+Mahogany Snapper,Lutjanidae,West Coast,Winter,No,June,March,0.49,277,20.37,14.04538255,Overfishing,Yes,10,100
+Comber,Serranidae,East Coast,Summer,Yes,September,August,2.39,1738,24.94,5.305167473,Pollution,No,4,52.46182169
+Clownfish,Pomacentridae,East Coast,Fall,Yes,November,June,3.95,2766,31.98,2.25208324,Pollution,No,2,87.20084743
+Kingfish,Scombridae,West Coast,Fall,Yes,February,June,2.91,1171,20.95,9.667788601,,No,6,100
+Snapper,Lutjanidae,West Coast,Summer,Yes,November,June,3.35,2464,7.53,7.081550444,Habitat Destruction,No,1,100
+Mackerel,Scombridae,West Coast,Fall,No,August,November,0.78,951,10.51,8.320949681,Overfishing,No,6,100
+Plaice,Pleuronectidae,West Coast,Fall,No,January,November,4.8,1826,1.9,2.450798655,Overfishing,No,1,100
+Sergeant Major,Pomacentridae,East Coast,Fall,No,December,October,4,1623,14.29,5.068746725,Habitat Destruction,No,3,100
+Tuna,Scombridae,West Coast,Winter,Yes,September,December,2.71,2407,44.97,7.66559315,Habitat Destruction,No,1,100
+Clownfish,Pomacentridae,East Coast,Spring,Yes,June,April,3.99,253,38.13,15.15614989,,Yes,9,100
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,August,March,0.96,613,5.35,17.4702072,Habitat Destruction,Yes,9,100
+Grayling,Salmonidae,Both Coasts,Winter,No,September,March,0.96,636,18.46,14.39399537,Climate Change,Yes,8,100
+Grouper,Serranidae,East Coast,Fall,No,December,October,4.37,1601,23.77,6.151732612,Climate Change,No,3,100
+Char,Salmonidae,Both Coasts,Fall,Yes,October,January,3.13,2086,2.85,2.65738587,Habitat Destruction,No,1,100
+Comber,Serranidae,East Coast,Winter,No,April,October,4.78,404,45.5,12.45385864,Habitat Destruction,Yes,8,100
+Sea Bass,Serranidae,East Coast,Winter,No,December,January,4.38,1224,8.79,11.25955853,Pollution,No,5,100
+Kingfish,Scombridae,West Coast,Spring,No,February,March,3.29,1025,34.49,8.168698914,Climate Change,No,7,100
+Flounder,Pleuronectidae,West Coast,Spring,No,February,April,3.93,865,44.04,11.58578239,Pollution,Yes,5,42.25459286
+Tuna,Scombridae,West Coast,Summer,Yes,January,October,0.72,373,16.35,16.18600499,,Yes,10,100
+Plaice,Pleuronectidae,West Coast,Spring,Yes,October,May,1.97,826,24.91,8.073567355,Pollution,No,6,55.25516086
+Flounder,Pleuronectidae,West Coast,Winter,Yes,July,September,0.11,876,13.81,8.501324027,Habitat Destruction,No,6,100
+Char,Salmonidae,Both Coasts,Fall,No,December,January,3.97,1262,22.13,11.11750854,Habitat Destruction,Yes,7,58.36265061
+Grouper,Serranidae,East Coast,Spring,No,February,June,4.66,1127,27.34,8.662705737,,No,7,100
+Mackerel,Scombridae,West Coast,Winter,No,March,July,0.91,1613,13.17,6.75144061,Habitat Destruction,No,1,100
+Damselfish,Pomacentridae,East Coast,Fall,No,July,November,2.68,1009,11.12,11.83292777,Habitat Destruction,Yes,7,63.32489417
+Mackerel,Scombridae,West Coast,Spring,No,June,March,2.5,2360,36.6,4.357139784,Habitat Destruction,No,3,82.26033582
+Halibut,Pleuronectidae,West Coast,Fall,No,May,January,2.2,1132,36.88,11.19097972,Habitat Destruction,Yes,6,100
+Mackerel,Scombridae,West Coast,Fall,No,March,September,3.83,308,1.89,16.28414185,Climate Change,Yes,10,71.32876481
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,December,February,0.54,1678,46.86,7.463181957,Pollution,No,2,100
+Tuna,Scombridae,West Coast,Fall,No,August,October,3,571,29.26,16.1249827,Pollution,Yes,10,100
+Snapper,Lutjanidae,West Coast,Summer,Yes,December,January,1.33,1472,4.1,8.359210243,Pollution,No,7,100
+Sergeant Major,Pomacentridae,East Coast,Spring,No,March,October,0.53,240,14.82,13.61472833,Overfishing,Yes,9,100
+Trout,Salmonidae,Both Coasts,Fall,Yes,February,March,4.21,546,24.87,16.43218547,Climate Change,Yes,10,100
+Char,Salmonidae,Both Coasts,Winter,Yes,February,April,0.43,725,27.02,18.67893389,,Yes,9,59.61377389
+Sole,Pleuronectidae,West Coast,Fall,Yes,July,December,3.79,2694,2.96,7.272486727,Habitat Destruction,No,2,64.12844992
+Grayling,Salmonidae,Both Coasts,Winter,No,November,July,0.33,541,46.8,16.62167352,Overfishing,Yes,9,100
+Grouper,Serranidae,East Coast,Summer,Yes,November,April,3.08,2437,6.84,3.163951585,Habitat Destruction,No,1,100
+Comber,Serranidae,East Coast,Summer,Yes,April,August,3.24,2110,25.51,6.949313145,Habitat Destruction,No,2,65.17467049
+Bonito,Scombridae,West Coast,Fall,Yes,March,July,0.42,897,22.24,10.35970564,Overfishing,Yes,7,100
+Sole,Pleuronectidae,West Coast,Fall,No,September,May,2.92,550,38.11,19.1919586,,Yes,8,100
+Emperor,Lutjanidae,West Coast,Winter,No,January,September,3.94,773,10.7,14.32906482,Overfishing,Yes,10,63.13525779
+Anthias,Serranidae,East Coast,Fall,No,November,January,2.46,1577,10.48,2.012773788,Pollution,No,4,100
+Tuna,Scombridae,West Coast,Summer,No,May,September,4.96,390,46.34,14.01417951,Pollution,Yes,10,100
+Halibut,Pleuronectidae,West Coast,Summer,No,July,June,3.32,524,32.87,12.92914106,,Yes,8,100
+Emperor,Lutjanidae,West Coast,Winter,Yes,January,June,1.6,2326,44.9,6.416143124,,No,2,86.68107752
+Comber,Serranidae,East Coast,Winter,No,June,July,0.68,1236,12.48,9.763987888,Pollution,No,5,100
+Snapper,Lutjanidae,West Coast,Spring,No,February,September,2.41,2190,17.54,3.324206547,,No,4,100
+Jobfish,Lutjanidae,West Coast,Summer,No,October,February,1.55,2202,2.71,2.850716156,Climate Change,No,1,100
+Salmon,Salmonidae,Both Coasts,Summer,No,July,December,2.83,782,19.42,18.5867096,Pollution,Yes,10,100
+Kingfish,Scombridae,West Coast,Fall,No,March,August,4.09,1239,42.49,11.28185351,Pollution,Yes,6,87.74443351
+Anthias,Serranidae,East Coast,Spring,Yes,April,May,3.36,1074,40.88,8.512106796,Overfishing,No,5,61.40453915
+Emperor,Lutjanidae,West Coast,Spring,No,July,October,3.05,108,23.49,16.30236243,,Yes,10,100
+Sergeant Major,Pomacentridae,East Coast,Spring,No,December,June,3,2923,43.76,6.043435315,Climate Change,No,4,100
+Mahogany Snapper,Lutjanidae,West Coast,Spring,No,December,January,2.17,1174,33.01,9.279946046,Overfishing,No,7,100
+Emperor,Lutjanidae,West Coast,Winter,No,October,February,2.33,2245,47.37,3.290002688,Pollution,No,4,50.70432437
+Salmon,Salmonidae,Both Coasts,Winter,No,June,February,4.61,2210,35.03,7.572572726,Habitat Destruction,No,1,35.43396545
+Char,Salmonidae,Both Coasts,Fall,No,December,June,0.72,593,30.12,17.06777128,Climate Change,Yes,8,85.75806515
+Tuna,Scombridae,West Coast,Winter,Yes,April,August,2.37,159,8.68,14.298002,,Yes,9,62.49593551
+Chromis,Pomacentridae,East Coast,Fall,No,February,April,1.3,699,29.45,14.74200007,Overfishing,Yes,8,100
+Snapper,Lutjanidae,West Coast,Winter,Yes,April,June,2.54,2817,5.02,7.10298909,Habitat Destruction,No,1,100
+Kingfish,Scombridae,West Coast,Fall,Yes,August,October,3.36,1851,48.8,7.576876094,,No,4,93.15783647
+Clownfish,Pomacentridae,East Coast,Fall,Yes,April,December,2.61,2544,8.09,7.869087119,Climate Change,No,4,43.47139908
+Sergeant Major,Pomacentridae,East Coast,Winter,No,June,January,2.14,2368,25.97,4.755799667,Climate Change,No,3,100
+Anthias,Serranidae,East Coast,Summer,Yes,June,December,3.17,2954,23.5,3.304139674,Climate Change,No,2,100
+Flounder,Pleuronectidae,West Coast,Spring,Yes,October,November,0.35,770,18.9,18.40457741,Overfishing,Yes,8,63.85782969
+Sea Bass,Serranidae,East Coast,Fall,No,February,June,4.94,1297,34.48,10.79817031,Habitat Destruction,Yes,6,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,January,July,2.4,1989,41.46,4.668503922,Climate Change,No,2,100
+Emperor,Lutjanidae,West Coast,Fall,Yes,January,June,2.86,1499,18.35,11.25570027,Overfishing,Yes,7,100
+Emperor,Lutjanidae,West Coast,Fall,No,February,October,1.54,2314,25.34,3.379737998,Climate Change,No,2,100
+Anthias,Serranidae,East Coast,Fall,Yes,May,June,2.95,1429,28.37,10.64123092,Climate Change,No,5,100
+Halibut,Pleuronectidae,West Coast,Summer,Yes,January,July,0.99,1930,49.29,3.433732032,Pollution,No,4,100
+Salmon,Salmonidae,Both Coasts,Winter,No,April,May,3.7,1690,48.87,5.761443635,,No,3,19.48998799
+Mackerel,Scombridae,West Coast,Fall,Yes,October,January,2.2,2145,41.35,3.744473405,Pollution,No,2,100
+Chromis,Pomacentridae,East Coast,Summer,Yes,June,October,0.63,1490,49.22,9.395953266,Climate Change,No,6,100
+Chromis,Pomacentridae,East Coast,Summer,Yes,March,December,2.37,2203,23.8,7.101822725,Climate Change,No,3,100
+Char,Salmonidae,Both Coasts,Winter,No,June,November,2.25,108,5.99,16.97296908,Climate Change,Yes,8,100
+Grouper,Serranidae,East Coast,Spring,Yes,November,August,3.42,657,16.64,18.17606884,Overfishing,Yes,10,77.73855558
+Flounder,Pleuronectidae,West Coast,Winter,Yes,January,September,1.69,186,6.81,12.33307896,Climate Change,Yes,9,100
+Damselfish,Pomacentridae,East Coast,Summer,Yes,November,September,1.39,2990,43.15,3.636628296,Climate Change,No,4,56.18098692
+Jobfish,Lutjanidae,West Coast,Winter,No,June,October,4.93,467,47.62,19.01589704,Habitat Destruction,Yes,10,54.02641293
+Clownfish,Pomacentridae,East Coast,Winter,Yes,October,June,4.97,475,9.52,12.95926442,Habitat Destruction,Yes,8,100
+Tuna,Scombridae,West Coast,Summer,Yes,July,April,1.95,291,48.66,12.16036685,,Yes,10,100
+Char,Salmonidae,Both Coasts,Fall,Yes,March,February,0.79,2786,13.4,7.017709473,Pollution,No,1,100
+Damselfish,Pomacentridae,East Coast,Spring,Yes,November,March,3.34,806,21.01,11.68149433,Pollution,Yes,6,45.50606957
+Anthias,Serranidae,East Coast,Summer,Yes,April,June,0.34,2364,5.56,2.066690335,,No,3,100
+Anthias,Serranidae,East Coast,Summer,Yes,February,April,2.12,250,1.44,14.95697986,Climate Change,Yes,9,100
+Anthias,Serranidae,East Coast,Fall,No,September,March,3.17,2256,28.38,6.899063464,Climate Change,No,2,100
+Trout,Salmonidae,Both Coasts,Summer,No,June,March,4.09,2145,33.43,4.025467786,Climate Change,No,1,100
+Char,Salmonidae,Both Coasts,Summer,Yes,November,February,1.3,1136,19.71,8.069282452,Climate Change,No,7,62.17016147
+Plaice,Pleuronectidae,West Coast,Fall,Yes,July,February,3.13,1046,24.97,11.80737628,Habitat Destruction,Yes,7,100
+Halibut,Pleuronectidae,West Coast,Fall,No,October,December,0.17,402,37.39,16.42282683,Pollution,Yes,9,100
+Trout,Salmonidae,Both Coasts,Winter,Yes,June,November,1.52,722,9.93,16.95617213,,Yes,8,100
+Kingfish,Scombridae,West Coast,Fall,No,February,November,4.41,905,13.35,11.4604059,Overfishing,Yes,7,100
+Bonito,Scombridae,West Coast,Summer,Yes,February,October,4.3,2831,3.89,7.581353908,Overfishing,No,4,37.10401487
+Sea Bass,Serranidae,East Coast,Winter,Yes,June,February,4.73,225,19.74,16.40608564,Habitat Destruction,Yes,10,100
+Char,Salmonidae,Both Coasts,Spring,Yes,August,October,2.59,1462,17.22,11.6895245,Climate Change,No,6,71.56485116
+Jobfish,Lutjanidae,West Coast,Winter,No,April,March,0.72,298,34.5,17.94465648,Habitat Destruction,Yes,9,100
+Kingfish,Scombridae,West Coast,Summer,No,January,March,1.43,2473,15.26,6.55802656,Habitat Destruction,No,3,61.37441819
+Comber,Serranidae,East Coast,Spring,No,May,December,0.42,335,44.69,17.19131288,Climate Change,Yes,9,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,November,May,4.49,1857,49.98,3.244993031,,No,2,41.1060838
+Char,Salmonidae,Both Coasts,Summer,No,April,May,0.46,2882,42.38,3.203006455,Habitat Destruction,No,2,100
+Salmon,Salmonidae,Both Coasts,Summer,No,July,November,4.11,531,39.86,14.81600013,Habitat Destruction,Yes,10,77.20487654
+Comber,Serranidae,East Coast,Spring,Yes,November,April,2.87,255,36.6,16.35912151,,Yes,10,30.67618231
+Clownfish,Pomacentridae,East Coast,Fall,Yes,September,January,0.99,2446,35.92,4.409677287,Habitat Destruction,No,4,25.3952786
+Grayling,Salmonidae,Both Coasts,Spring,No,March,February,2.39,223,40.14,17.83399868,Overfishing,Yes,10,100
+Damselfish,Pomacentridae,East Coast,Summer,Yes,February,September,2.53,454,1.41,17.88281056,Climate Change,Yes,10,100
+Flounder,Pleuronectidae,West Coast,Spring,No,October,August,1.9,1399,22.36,11.01174864,Habitat Destruction,Yes,5,100
+Mackerel,Scombridae,West Coast,Spring,Yes,October,February,3.66,496,6.71,15.33977972,,Yes,10,100
+Halibut,Pleuronectidae,West Coast,Summer,No,June,May,0.56,1488,37.83,11.93633151,Pollution,Yes,6,45.53366782
+Jobfish,Lutjanidae,West Coast,Spring,Yes,May,January,4.55,1849,28.24,2.259877624,,No,2,100
+Damselfish,Pomacentridae,East Coast,Spring,Yes,January,May,1.24,1968,11.73,6.270286733,Overfishing,No,4,100
+Sole,Pleuronectidae,West Coast,Spring,No,July,June,1.32,458,23.59,14.96919998,,Yes,10,100
+Halibut,Pleuronectidae,West Coast,Fall,No,June,December,2.04,637,29.73,18.68859835,Pollution,Yes,10,74.64015342
+Halibut,Pleuronectidae,West Coast,Winter,Yes,June,July,1.77,312,15.18,14.45928709,Climate Change,Yes,10,100
+Sergeant Major,Pomacentridae,East Coast,Spring,No,December,January,3.2,1895,28.2,5.217772805,Overfishing,No,1,100
+Halibut,Pleuronectidae,West Coast,Spring,Yes,May,November,2.49,1098,13.88,10.8304568,Habitat Destruction,No,6,100
+Plaice,Pleuronectidae,West Coast,Summer,Yes,June,May,4.63,1627,33.5,2.46200744,Habitat Destruction,No,3,100
+Sea Bass,Serranidae,East Coast,Winter,No,October,April,3.76,840,32.59,11.56132462,,Yes,6,71.13276965
+Trout,Salmonidae,Both Coasts,Spring,No,July,June,2.37,556,47.72,14.32436857,Climate Change,Yes,10,100
+Sergeant Major,Pomacentridae,East Coast,Summer,No,January,May,4.39,2084,36.62,3.328722358,Pollution,No,2,100
+Flounder,Pleuronectidae,West Coast,Summer,Yes,December,April,0.8,1857,43.29,2.689457655,Habitat Destruction,No,4,57.88876882
+Mackerel,Scombridae,West Coast,Fall,No,April,January,0.65,2721,47.39,3.250816053,Overfishing,No,3,100
+Emperor,Lutjanidae,West Coast,Summer,Yes,August,December,2.09,548,42.09,19.89466209,Pollution,Yes,8,67.29974767
+Sea Bass,Serranidae,East Coast,Spring,Yes,October,December,1.89,1472,32.54,11.99115629,Climate Change,Yes,7,100
+Tuna,Scombridae,West Coast,Spring,Yes,September,June,2.42,850,37.36,8.103585117,Climate Change,Yes,6,100
+Plaice,Pleuronectidae,West Coast,Spring,Yes,April,December,3.94,1507,4.69,5.858755355,Climate Change,No,2,27.33197676
+Chromis,Pomacentridae,East Coast,Summer,No,July,December,0.32,2116,45.13,2.758265713,Overfishing,No,1,100
+Tuna,Scombridae,West Coast,Winter,Yes,April,May,0.31,2322,9.91,5.456681461,Overfishing,No,4,11.6080898
+Jobfish,Lutjanidae,West Coast,Winter,Yes,December,February,4.05,2792,29.03,2.764310389,Climate Change,No,2,100
+Sergeant Major,Pomacentridae,East Coast,Spring,No,January,March,2.44,2987,6.1,3.581931827,Climate Change,No,3,48.29451123
+Sole,Pleuronectidae,West Coast,Fall,Yes,April,November,0.42,693,26.51,15.22748779,Climate Change,Yes,10,100
+Char,Salmonidae,Both Coasts,Spring,No,March,April,3.72,1690,29.58,2.678056016,,No,1,100
+Mackerel,Scombridae,West Coast,Winter,No,July,April,0.79,289,22.32,16.3525315,Habitat Destruction,Yes,9,100
+Comber,Serranidae,East Coast,Spring,Yes,December,March,4.91,757,16.84,14.26929879,,Yes,10,87.47616444
+Anthias,Serranidae,East Coast,Winter,Yes,August,July,2.57,1675,26.14,3.210735667,Habitat Destruction,No,1,100
+Bonito,Scombridae,West Coast,Fall,Yes,August,April,2.65,1271,38.1,11.05349861,Habitat Destruction,Yes,6,100
+Tuna,Scombridae,West Coast,Spring,No,July,September,4.95,2498,48.47,6.142650457,,No,2,100
+Grouper,Serranidae,East Coast,Fall,Yes,January,July,0.2,387,21.61,12.98330616,Pollution,Yes,8,100
+Plaice,Pleuronectidae,West Coast,Spring,No,April,January,3.58,248,1.07,16.16047656,Pollution,Yes,8,28.89178926
+Char,Salmonidae,Both Coasts,Summer,No,September,November,1.92,375,8.48,12.16802652,Pollution,Yes,8,12.1668113
+Damselfish,Pomacentridae,East Coast,Winter,Yes,August,April,0.86,507,26.14,15.40759251,,Yes,8,100
+Jobfish,Lutjanidae,West Coast,Spring,Yes,September,August,1.53,2761,32.21,3.754515646,Habitat Destruction,No,3,100
+Anthias,Serranidae,East Coast,Fall,Yes,August,March,2.89,2488,46.66,5.077974627,Habitat Destruction,No,2,80.03200416
+Salmon,Salmonidae,Both Coasts,Winter,Yes,September,October,3.62,1104,33.19,11.36114667,,Yes,7,58.91465682
+Mahogany Snapper,Lutjanidae,West Coast,Winter,Yes,January,July,1.09,2381,48.96,7.275819495,Overfishing,No,3,100
+Chromis,Pomacentridae,East Coast,Winter,No,March,August,2.32,495,49.94,14.61517209,Pollution,Yes,9,100
+Tuna,Scombridae,West Coast,Summer,No,May,August,1.12,2358,16.93,6.431739021,Climate Change,No,2,100
+Flounder,Pleuronectidae,West Coast,Fall,No,January,December,4.1,772,24.49,13.76772649,Climate Change,Yes,8,100
+Comber,Serranidae,East Coast,Fall,Yes,January,October,3.17,718,23.56,13.47235535,Habitat Destruction,Yes,8,50.74010251
+Flounder,Pleuronectidae,West Coast,Spring,No,March,January,4.53,698,10.77,19.6948374,Habitat Destruction,Yes,8,25.02058064
+Sea Bass,Serranidae,East Coast,Spring,No,May,September,1.25,641,41.36,14.97671646,Pollution,Yes,10,99.27105039
+Tuna,Scombridae,West Coast,Fall,Yes,October,December,1.26,534,6.31,19.53069284,,Yes,10,100
+Bonito,Scombridae,West Coast,Fall,No,May,July,3.69,1712,25.73,7.497904651,,No,1,100
+Sole,Pleuronectidae,West Coast,Fall,No,April,May,4.3,1138,20.17,10.84735412,,Yes,7,100
+Flounder,Pleuronectidae,West Coast,Fall,No,May,October,4.6,2343,49.03,3.461310523,Habitat Destruction,No,2,93.62033649
+Grayling,Salmonidae,Both Coasts,Spring,No,January,October,4.23,2322,36.37,4.741896457,Overfishing,No,3,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,No,January,May,0.4,1464,23.87,8.453983396,Overfishing,No,5,100
+Damselfish,Pomacentridae,East Coast,Summer,Yes,October,March,0.72,2851,10.09,5.9749277,Overfishing,No,1,100
+Chromis,Pomacentridae,East Coast,Spring,Yes,February,September,1.26,268,13.63,17.50660087,Pollution,Yes,10,58.02241294
+Trout,Salmonidae,Both Coasts,Spring,Yes,March,June,0.49,1306,29.15,11.1629526,,Yes,7,100
+Sea Bass,Serranidae,East Coast,Winter,Yes,December,November,1.74,1218,33.44,11.70100729,,Yes,7,100
+Kingfish,Scombridae,West Coast,Winter,No,March,October,4.53,1194,47.95,10.72699824,,Yes,5,39.15900221
+Chromis,Pomacentridae,East Coast,Spring,No,March,December,1.49,1000,34.99,8.576291268,Pollution,No,7,100
+Tuna,Scombridae,West Coast,Winter,Yes,January,October,3.09,2857,45.61,3.16656713,Habitat Destruction,No,1,100
+Kingfish,Scombridae,West Coast,Summer,Yes,March,April,4.7,1210,6.79,10.98882599,Climate Change,No,5,100
+Tuna,Scombridae,West Coast,Spring,No,March,January,3.76,339,37.27,17.04985397,Habitat Destruction,Yes,9,57.36619015
+Mahogany Snapper,Lutjanidae,West Coast,Spring,No,July,February,4.67,2996,39.47,3.188021359,Overfishing,No,1,77.02937887
+Mackerel,Scombridae,West Coast,Fall,No,November,December,3.81,2901,10.06,3.423280029,Pollution,No,2,100
+Tuna,Scombridae,West Coast,Summer,No,December,September,0.88,720,21.41,14.78052756,Overfishing,Yes,10,100
+Clownfish,Pomacentridae,East Coast,Winter,Yes,January,April,1.88,2960,22.58,2.649868152,,No,1,46.90016784
+Mackerel,Scombridae,West Coast,Spring,No,March,July,3.92,1911,17.94,4.812225511,Habitat Destruction,No,1,100
+Mackerel,Scombridae,West Coast,Winter,No,December,February,0.31,2315,29.54,6.811891176,Climate Change,No,2,73.18567281
+Plaice,Pleuronectidae,West Coast,Summer,No,May,October,2.34,230,49.84,12.83965947,Climate Change,Yes,9,19.80182297
+Char,Salmonidae,Both Coasts,Fall,Yes,July,September,4.23,2122,41.52,5.490577742,Climate Change,No,1,100
+Kingfish,Scombridae,West Coast,Spring,No,January,May,2.22,215,5.55,16.2119443,Habitat Destruction,Yes,9,100
+Salmon,Salmonidae,Both Coasts,Winter,No,February,January,2.14,1962,30.79,2.447483461,Overfishing,No,1,62.58296606
+Grouper,Serranidae,East Coast,Summer,Yes,March,September,4.27,365,38.89,14.26196627,Climate Change,Yes,8,51.39964597
+Char,Salmonidae,Both Coasts,Spring,No,December,March,3.18,1698,19.55,4.015501196,Overfishing,No,2,77.90388194
+Emperor,Lutjanidae,West Coast,Summer,No,April,September,2.77,820,22.84,8.656369508,Habitat Destruction,No,6,50.11575252
+Bonito,Scombridae,West Coast,Spring,No,November,March,2.11,2690,40.03,5.160104107,,No,3,100
+Snapper,Lutjanidae,West Coast,Summer,No,December,July,2.01,811,2.44,8.346026433,Climate Change,No,5,100
+Trout,Salmonidae,Both Coasts,Winter,No,March,August,4.89,2163,17.16,6.505975545,Pollution,No,2,100
+Trout,Salmonidae,Both Coasts,Fall,Yes,July,October,3.26,1376,13.07,11.27514013,Overfishing,Yes,5,100
+Emperor,Lutjanidae,West Coast,Winter,No,February,April,2.07,2542,23.96,3.514176617,Pollution,No,1,100
+Plaice,Pleuronectidae,West Coast,Fall,Yes,June,July,0.66,1108,31.58,11.7593083,Climate Change,Yes,5,100
+Clownfish,Pomacentridae,East Coast,Fall,Yes,November,March,3.6,1883,40.76,4.603368297,,No,3,44.44559179
+Mahogany Snapper,Lutjanidae,West Coast,Fall,No,February,July,1.98,290,24.58,16.44500999,Pollution,Yes,9,100
+Bonito,Scombridae,West Coast,Summer,Yes,August,November,4.61,2731,38.43,7.100087603,Overfishing,No,2,100
+Sole,Pleuronectidae,West Coast,Fall,Yes,August,September,3.52,2270,48.75,5.713793225,Pollution,No,2,100
+Sergeant Major,Pomacentridae,East Coast,Spring,Yes,October,May,0.92,1515,27.78,4.39106676,Pollution,No,4,100
+Jobfish,Lutjanidae,West Coast,Fall,No,May,December,0.37,2534,46,2.252471954,Habitat Destruction,No,2,53.43361053
+Grayling,Salmonidae,Both Coasts,Summer,No,November,August,4.01,1796,1.99,3.63362514,Overfishing,No,4,84.9439861
+Kingfish,Scombridae,West Coast,Winter,Yes,November,December,3.34,1741,36.91,2.232178223,Overfishing,No,2,100
+Damselfish,Pomacentridae,East Coast,Fall,Yes,January,April,2.07,879,22.13,9.483070384,Climate Change,Yes,7,100
+Damselfish,Pomacentridae,East Coast,Winter,No,June,April,1.63,900,45,9.299522049,Pollution,Yes,6,60.09159747
+Trout,Salmonidae,Both Coasts,Winter,Yes,September,November,4.51,1152,33.29,9.169304487,Habitat Destruction,No,7,53.48202379
+Clownfish,Pomacentridae,East Coast,Spring,Yes,March,May,2.51,1508,10.05,5.592132873,,No,3,100
+Flounder,Pleuronectidae,West Coast,Summer,No,February,January,4.15,1576,24.85,6.455077953,Habitat Destruction,No,3,51.24446018
+Grayling,Salmonidae,Both Coasts,Fall,Yes,August,July,2.87,1235,8.9,8.111264992,Climate Change,No,7,100
+Char,Salmonidae,Both Coasts,Spring,No,January,February,1.2,791,9.81,16.45159834,,Yes,10,48.02462218
+Flounder,Pleuronectidae,West Coast,Spring,Yes,November,October,3.78,418,5.88,15.20762593,,Yes,8,100
+Clownfish,Pomacentridae,East Coast,Summer,Yes,March,May,4.55,2048,48.97,5.372159627,Habitat Destruction,No,2,69.14330971
+Flounder,Pleuronectidae,West Coast,Fall,No,November,May,0.22,2701,43.07,3.795433173,,No,2,66.16498641
+Halibut,Pleuronectidae,West Coast,Spring,No,August,November,1.08,1082,47.62,9.720592854,Overfishing,No,6,100
+Anthias,Serranidae,East Coast,Spring,Yes,August,April,2.56,1028,32.3,8.970259202,Climate Change,No,6,100
+Kingfish,Scombridae,West Coast,Fall,No,June,December,4.32,2075,17.22,2.304437228,Overfishing,No,1,100
+Chromis,Pomacentridae,East Coast,Fall,No,October,August,3.24,1672,24.95,6.707526359,Overfishing,No,1,100
+Kingfish,Scombridae,West Coast,Fall,Yes,March,April,4.39,1251,46.02,10.32436353,Habitat Destruction,Yes,7,100
+Grayling,Salmonidae,Both Coasts,Summer,Yes,January,April,0.5,1088,32.76,9.541965267,Habitat Destruction,No,7,86.34536406
+Snapper,Lutjanidae,West Coast,Summer,No,June,May,3.43,327,21.97,18.33682524,Habitat Destruction,Yes,10,100
+Char,Salmonidae,Both Coasts,Spring,Yes,November,March,1.82,103,11.09,13.17182962,Climate Change,Yes,8,57.73571891
+Char,Salmonidae,Both Coasts,Spring,No,December,October,3.94,2739,12.2,4.325839303,Climate Change,No,2,100
+Sole,Pleuronectidae,West Coast,Fall,Yes,September,June,3.28,2314,25.68,6.238410825,Overfishing,No,3,100
+Sergeant Major,Pomacentridae,East Coast,Fall,No,May,June,3.09,2812,13.34,6.030668422,Climate Change,No,2,100
+Chromis,Pomacentridae,East Coast,Summer,No,January,June,0.44,783,32.19,13.00327255,Pollution,Yes,10,100
+Mahogany Snapper,Lutjanidae,West Coast,Spring,No,April,February,2.8,2544,49,7.186299746,Pollution,No,4,33.49044746
+Grouper,Serranidae,East Coast,Winter,No,April,July,1.54,382,10.09,16.45786583,Pollution,Yes,8,100
+Bonito,Scombridae,West Coast,Winter,Yes,September,June,3.56,1775,44.04,4.200321552,Pollution,No,2,76.06908787
+Bonito,Scombridae,West Coast,Fall,Yes,April,August,1.48,2702,40.11,4.485779414,,No,2,100
+Anthias,Serranidae,East Coast,Summer,Yes,December,April,0.26,1391,2.78,11.23540167,Overfishing,Yes,7,100
+Sole,Pleuronectidae,West Coast,Fall,Yes,July,November,3.76,2979,22.9,3.073170419,Pollution,No,4,100
+Snapper,Lutjanidae,West Coast,Spring,No,May,January,3.5,2076,48.19,2.760119036,Pollution,No,1,100
+Clownfish,Pomacentridae,East Coast,Spring,No,January,July,4.88,496,41.53,14.21312561,Climate Change,Yes,10,91.96025204
+Sole,Pleuronectidae,West Coast,Spring,Yes,December,July,1.61,1037,2.62,10.28897558,Overfishing,Yes,6,73.65060772
+Grayling,Salmonidae,Both Coasts,Fall,No,December,September,2.89,2991,1.03,3.943849077,Pollution,No,2,100
+Plaice,Pleuronectidae,West Coast,Summer,Yes,December,September,0.4,528,4.42,13.5023729,Climate Change,Yes,10,100
+Char,Salmonidae,Both Coasts,Fall,Yes,March,November,4.85,867,35.92,8.078534617,Overfishing,Yes,6,100
+Jobfish,Lutjanidae,West Coast,Spring,Yes,August,March,1.82,390,3.47,12.01039247,Overfishing,Yes,10,82.56190528
+Sole,Pleuronectidae,West Coast,Winter,No,January,June,4.35,2310,45,5.308259708,Overfishing,No,4,82.54203429
+Bonito,Scombridae,West Coast,Winter,Yes,September,December,2.7,404,39.15,14.95071078,Pollution,Yes,8,52.06698111
+Trout,Salmonidae,Both Coasts,Fall,No,August,July,3.43,1221,4.8,10.77348995,Climate Change,Yes,7,100
+Sole,Pleuronectidae,West Coast,Winter,No,January,March,0.81,360,29.49,15.8995228,Pollution,Yes,9,68.72696674
+Emperor,Lutjanidae,West Coast,Fall,No,December,May,3.37,2818,39.97,3.5739156,Overfishing,No,3,100
+Sea Bass,Serranidae,East Coast,Summer,Yes,February,July,1.9,1566,30.65,3.627512222,Climate Change,No,3,100
+Tuna,Scombridae,West Coast,Fall,No,November,March,2.76,2639,30.82,5.091072789,Habitat Destruction,No,3,37.41239652
+Sea Bass,Serranidae,East Coast,Spring,No,April,October,4.75,291,13.72,13.63996315,Overfishing,Yes,9,100
+Mackerel,Scombridae,West Coast,Winter,No,August,September,1.9,2853,26.47,2.825364266,,No,2,47.80470125
+Emperor,Lutjanidae,West Coast,Summer,No,September,June,2.37,922,49.29,11.50508913,Overfishing,Yes,5,100
+Clownfish,Pomacentridae,East Coast,Spring,No,April,February,1.51,1182,10.2,9.7345899,Pollution,No,5,37.29761683
+Comber,Serranidae,East Coast,Fall,Yes,July,September,4.68,2231,4.21,4.045105795,Pollution,No,2,100
+Grouper,Serranidae,East Coast,Winter,No,August,March,0.86,2977,11.28,6.771266692,,No,3,67.16969524
+Clownfish,Pomacentridae,East Coast,Summer,Yes,January,December,2.43,2012,40.81,6.310218296,Overfishing,No,2,100
+Comber,Serranidae,East Coast,Summer,Yes,December,May,4.27,1144,19.68,10.63553969,Pollution,Yes,7,100
+Trout,Salmonidae,Both Coasts,Summer,No,January,May,4.41,1489,33.96,8.434217564,Overfishing,No,5,77.14521751
+Comber,Serranidae,East Coast,Fall,Yes,April,January,1.84,1040,2.32,11.23452797,Climate Change,No,6,100
+Trout,Salmonidae,Both Coasts,Spring,Yes,April,May,0.34,178,30.27,19.6265991,Habitat Destruction,Yes,9,100
+Comber,Serranidae,East Coast,Winter,No,November,August,4.08,2005,17.79,2.795104342,,No,4,100
+Sole,Pleuronectidae,West Coast,Fall,No,March,May,1.73,2941,5.2,4.528426886,Pollution,No,4,100
+Jobfish,Lutjanidae,West Coast,Summer,No,May,February,2.13,625,11.86,13.58704776,,Yes,9,83.79811081
+Jobfish,Lutjanidae,West Coast,Summer,No,October,February,4,1626,10.39,3.758175839,Climate Change,No,4,100
+Anthias,Serranidae,East Coast,Summer,No,February,August,1.44,2951,47.95,3.990673592,Pollution,No,2,93.21088826
+Tuna,Scombridae,West Coast,Spring,No,May,November,4.63,899,38.76,9.678438496,Climate Change,Yes,6,100
+Anthias,Serranidae,East Coast,Winter,No,January,August,4.8,2973,48.43,6.756522126,,No,2,100
+Char,Salmonidae,Both Coasts,Spring,Yes,March,February,2.74,906,25.77,10.75867979,Overfishing,Yes,5,74.26225788
+Salmon,Salmonidae,Both Coasts,Fall,Yes,October,February,3.08,1377,9.04,10.06998409,Habitat Destruction,No,6,30.17175566
+Sea Bass,Serranidae,East Coast,Summer,No,April,March,3.05,802,42.65,8.471868179,,Yes,7,100
+Kingfish,Scombridae,West Coast,Spring,Yes,September,January,2.51,808,1.84,8.530115977,Pollution,Yes,7,100
+Snapper,Lutjanidae,West Coast,Winter,No,March,December,4.32,1348,3.45,11.55214951,,Yes,7,100
+Sea Bass,Serranidae,East Coast,Summer,Yes,December,November,3.76,814,7.61,9.233017509,Pollution,Yes,7,100
+Sergeant Major,Pomacentridae,East Coast,Fall,Yes,August,September,1.16,853,24.17,8.667783088,Pollution,No,6,56.86442179
+Damselfish,Pomacentridae,East Coast,Summer,No,February,August,0.12,978,40.4,9.290147327,,Yes,6,100
+Tuna,Scombridae,West Coast,Spring,Yes,January,February,0.15,650,27.12,17.57275878,,Yes,9,100
+Salmon,Salmonidae,Both Coasts,Winter,No,September,June,0.76,2527,32.7,7.543699961,Overfishing,No,2,100
+Mackerel,Scombridae,West Coast,Fall,Yes,August,December,2.51,1262,12.47,10.26986457,Climate Change,No,5,100
+Trout,Salmonidae,Both Coasts,Summer,No,July,March,3.62,1219,17,11.83596248,,Yes,7,100
+Halibut,Pleuronectidae,West Coast,Summer,No,August,September,2.95,2060,29.93,4.97901084,Climate Change,No,2,100
+Jobfish,Lutjanidae,West Coast,Fall,Yes,January,February,1.26,2389,21.11,6.59928538,Climate Change,No,2,100
+Comber,Serranidae,East Coast,Winter,Yes,July,May,0.57,904,22.61,11.99181773,Pollution,Yes,7,54.24353948
+Grouper,Serranidae,East Coast,Summer,No,January,September,4.57,679,18.01,18.20018429,Overfishing,Yes,8,53.31078759
+Trout,Salmonidae,Both Coasts,Spring,No,November,June,3.23,1767,46.99,4.700310342,Overfishing,No,3,75.98992752
+Anthias,Serranidae,East Coast,Summer,No,April,June,3.99,1917,38.19,2.962145477,Climate Change,No,4,100
+Trout,Salmonidae,Both Coasts,Spring,Yes,December,January,0.4,1268,3.97,8.260170218,Pollution,No,6,100
+Grayling,Salmonidae,Both Coasts,Fall,Yes,February,October,1.16,176,41.06,13.44908121,Climate Change,Yes,8,100
+Mahogany Snapper,Lutjanidae,West Coast,Winter,Yes,October,August,0.94,342,12.2,16.83997859,,Yes,8,100
+Plaice,Pleuronectidae,West Coast,Fall,Yes,March,May,0.57,1022,49.98,9.4980671,Habitat Destruction,No,6,100
+Comber,Serranidae,East Coast,Spring,No,June,September,0.71,1436,10.52,8.860901186,Overfishing,No,5,100
+Jobfish,Lutjanidae,West Coast,Spring,Yes,January,June,0.68,2304,34.51,6.444176636,Overfishing,No,2,100
+Mackerel,Scombridae,West Coast,Winter,No,July,June,3.04,1417,20.88,8.404969149,Climate Change,No,6,100
+Grayling,Salmonidae,Both Coasts,Winter,No,March,July,1.33,871,21.04,9.509501393,Pollution,No,6,100
+Salmon,Salmonidae,Both Coasts,Summer,No,January,June,0.14,1837,14.75,3.919018192,Pollution,No,3,100
+Comber,Serranidae,East Coast,Spring,Yes,May,January,4.6,784,43.88,19.73621633,Habitat Destruction,Yes,9,100
+Grayling,Salmonidae,Both Coasts,Spring,No,June,March,2.22,1265,38.36,11.32844976,Pollution,Yes,6,54.16138555
+Comber,Serranidae,East Coast,Winter,Yes,December,April,4.92,2418,44.16,6.011533322,Overfishing,No,2,100
+Chromis,Pomacentridae,East Coast,Spring,No,June,February,2.83,2390,13.74,2.742633981,Overfishing,No,4,67.672
+Emperor,Lutjanidae,West Coast,Summer,Yes,October,September,2.92,1597,22.31,4.956232783,Pollution,No,1,100
+Plaice,Pleuronectidae,West Coast,Spring,No,May,August,4.27,155,48.11,14.48467547,Climate Change,Yes,8,100
+Grayling,Salmonidae,Both Coasts,Summer,No,July,November,2.11,889,47.86,11.95331982,Overfishing,Yes,7,100
+Jobfish,Lutjanidae,West Coast,Spring,Yes,February,January,0.14,811,45.24,11.3398894,,Yes,7,100
+Mahogany Snapper,Lutjanidae,West Coast,Winter,Yes,April,December,4.29,2873,5.4,4.391525969,Pollution,No,3,58.31131308
+Salmon,Salmonidae,Both Coasts,Winter,Yes,January,June,2.94,2050,49.25,4.991058879,,No,3,100
+Trout,Salmonidae,Both Coasts,Spring,No,August,November,4.08,2480,24.87,7.651093146,Habitat Destruction,No,2,79.4890591
+Sole,Pleuronectidae,West Coast,Winter,No,June,March,2.39,2722,37.64,3.953777481,Climate Change,No,3,100
+Grayling,Salmonidae,Both Coasts,Summer,No,June,April,2.79,651,28.9,14.10636107,Habitat Destruction,Yes,8,100
+Sea Bass,Serranidae,East Coast,Spring,Yes,September,February,3.86,395,15.67,16.82502513,Overfishing,Yes,9,100
+Jobfish,Lutjanidae,West Coast,Summer,Yes,May,August,4.84,131,32.2,15.7430519,Climate Change,Yes,8,100
+Tuna,Scombridae,West Coast,Spring,Yes,June,May,3.39,2774,4.95,2.174550668,Habitat Destruction,No,4,100
+Plaice,Pleuronectidae,West Coast,Summer,Yes,April,December,1.03,1962,36.12,6.720994169,,No,3,28.68737871
+Grayling,Salmonidae,Both Coasts,Spring,Yes,January,February,3.8,1121,1.05,9.135842351,Overfishing,No,6,62.41170928
+Anthias,Serranidae,East Coast,Winter,Yes,July,October,0.85,1578,10.77,2.783715714,,No,3,54.79994931
+Sole,Pleuronectidae,West Coast,Winter,No,December,November,3.68,689,8.49,16.62638596,Pollution,Yes,9,39.9137787
+Kingfish,Scombridae,West Coast,Winter,Yes,September,November,0.79,2826,27.07,5.349196457,Habitat Destruction,No,4,100
+Snapper,Lutjanidae,West Coast,Fall,No,August,October,1.65,1940,19.56,2.945840077,Habitat Destruction,No,3,42.83583956
+Char,Salmonidae,Both Coasts,Spring,Yes,January,April,0.89,2776,22.27,7.537244549,Habitat Destruction,No,1,58.38121963
+Sole,Pleuronectidae,West Coast,Fall,Yes,October,September,1.2,1211,35.55,8.987729557,,No,7,100
+Grouper,Serranidae,East Coast,Spring,Yes,April,November,3.15,1693,28.6,5.662427541,Overfishing,No,3,42.33670935
+Sole,Pleuronectidae,West Coast,Summer,Yes,October,June,1.19,2587,24.71,7.468753577,Overfishing,No,1,100
+Grayling,Salmonidae,Both Coasts,Spring,No,July,June,0.11,1217,10.67,10.85573103,,No,5,100
+Snapper,Lutjanidae,West Coast,Summer,No,May,March,1.59,2559,40.33,5.753388739,Habitat Destruction,No,4,100
+Halibut,Pleuronectidae,West Coast,Fall,No,July,May,2.97,2851,6.12,2.573959759,Pollution,No,4,100
+Plaice,Pleuronectidae,West Coast,Winter,No,May,August,0.8,1079,16.77,10.24707939,,Yes,5,100
+Sole,Pleuronectidae,West Coast,Winter,Yes,January,March,1.85,2140,10.73,6.614243013,Habitat Destruction,No,3,100
+Chromis,Pomacentridae,East Coast,Fall,Yes,April,February,4.6,2736,48.73,5.424522954,Pollution,No,1,17.59771986
+Flounder,Pleuronectidae,West Coast,Summer,No,March,November,1.44,1990,30.74,2.417738032,Climate Change,No,3,65.07574379
+Clownfish,Pomacentridae,East Coast,Spring,Yes,July,December,0.53,1709,18.84,4.884117388,Pollution,No,3,100
+Emperor,Lutjanidae,West Coast,Winter,Yes,January,September,0.87,832,48.92,8.704481481,,Yes,7,100
+Salmon,Salmonidae,Both Coasts,Summer,No,January,July,1.26,149,25.24,13.74085714,Habitat Destruction,Yes,10,89.20234971
+Clownfish,Pomacentridae,East Coast,Summer,No,January,December,1.18,680,9.51,13.33619128,Overfishing,Yes,9,100
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,November,January,1.65,221,35.36,17.68510124,Climate Change,Yes,10,100
+Salmon,Salmonidae,Both Coasts,Summer,Yes,April,August,2.18,118,23.47,16.00028904,Habitat Destruction,Yes,8,100
+Clownfish,Pomacentridae,East Coast,Summer,Yes,April,November,0.8,1107,1.23,11.07796326,Pollution,No,5,100
+Plaice,Pleuronectidae,West Coast,Spring,No,May,September,4.33,2772,16.86,6.414263769,Climate Change,No,1,63.77464976
+Trout,Salmonidae,Both Coasts,Summer,No,February,April,4.8,424,31.46,13.37193332,Overfishing,Yes,10,100
+Bonito,Scombridae,West Coast,Spring,No,July,September,4.95,624,36.4,12.22726402,,Yes,10,66.65326514
+Flounder,Pleuronectidae,West Coast,Summer,Yes,April,October,4.88,541,23.95,12.0912561,Pollution,Yes,10,100
+Sole,Pleuronectidae,West Coast,Winter,No,August,March,3.56,2939,34.16,7.658943289,Habitat Destruction,No,3,100
+Bonito,Scombridae,West Coast,Winter,No,May,November,3.85,1335,24.89,10.03748555,Overfishing,No,6,28.41093174
+Damselfish,Pomacentridae,East Coast,Fall,No,July,February,2.5,488,11.79,16.15526467,Pollution,Yes,8,83.5333276
+Clownfish,Pomacentridae,East Coast,Fall,Yes,March,November,2.65,1357,5.25,10.70356831,Habitat Destruction,Yes,7,100
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,June,May,2.34,1360,19.81,10.75027217,Overfishing,No,5,62.20998651
+Grouper,Serranidae,East Coast,Winter,Yes,November,October,4.71,2522,1.68,4.774988192,Habitat Destruction,No,1,43.65363297
+Clownfish,Pomacentridae,East Coast,Spring,Yes,January,October,0.19,457,1.65,14.33895337,Pollution,Yes,8,52.97229563
+Grayling,Salmonidae,Both Coasts,Spring,Yes,July,January,0.33,2411,7.2,6.159236307,Habitat Destruction,No,1,100
+Plaice,Pleuronectidae,West Coast,Spring,Yes,November,October,1.03,298,8.32,13.24748402,,Yes,9,100
+Sea Bass,Serranidae,East Coast,Fall,No,August,September,0.71,789,46.6,15.9685871,Overfishing,Yes,8,100
+Flounder,Pleuronectidae,West Coast,Spring,Yes,January,August,4.54,530,32.1,12.11936193,,Yes,9,100
+Jobfish,Lutjanidae,West Coast,Spring,Yes,September,June,4.32,2569,47.64,6.171392546,Climate Change,No,1,100
+Clownfish,Pomacentridae,East Coast,Winter,Yes,November,October,2.8,535,14.92,13.09482265,Pollution,Yes,10,85.58436599
+Comber,Serranidae,East Coast,Fall,Yes,March,June,0.6,731,14.33,17.81795058,Habitat Destruction,Yes,8,100
+Grouper,Serranidae,East Coast,Summer,No,September,July,2.8,508,47.27,13.54170335,Overfishing,Yes,9,69.52060723
+Flounder,Pleuronectidae,West Coast,Winter,No,November,May,4.37,2846,36.94,5.285186296,Overfishing,No,1,100
+Halibut,Pleuronectidae,West Coast,Fall,Yes,August,January,3.9,758,19.78,19.27389995,Habitat Destruction,Yes,9,100
+Mackerel,Scombridae,West Coast,Spring,Yes,December,February,1.23,1882,6.43,5.143682053,Climate Change,No,1,36.56919531
+Snapper,Lutjanidae,West Coast,Fall,Yes,January,August,0.94,2349,22.75,2.412447401,Habitat Destruction,No,4,87.48477865
+Anthias,Serranidae,East Coast,Fall,Yes,January,July,2.99,414,32.28,14.20186779,Pollution,Yes,10,100
+Salmon,Salmonidae,Both Coasts,Fall,Yes,January,October,1.43,1955,27.74,5.712612053,Climate Change,No,4,67.39008188
+Char,Salmonidae,Both Coasts,Spring,No,June,November,3.29,1496,13.82,10.09694639,Overfishing,Yes,7,100
+Damselfish,Pomacentridae,East Coast,Fall,No,May,June,2.84,884,44.99,10.01256912,Pollution,Yes,6,100
+Clownfish,Pomacentridae,East Coast,Summer,Yes,January,February,3.96,1152,38.71,11.94112348,Habitat Destruction,Yes,5,68.73234832
+Flounder,Pleuronectidae,West Coast,Winter,Yes,September,December,0.63,819,36.42,11.5155953,Overfishing,Yes,6,100
+Sergeant Major,Pomacentridae,East Coast,Fall,Yes,May,February,0.54,1584,13.21,7.913728671,Habitat Destruction,No,2,92.31574032
+Jobfish,Lutjanidae,West Coast,Summer,No,June,May,2.47,1322,30.23,11.87189257,Overfishing,Yes,5,72.03277989
+Chromis,Pomacentridae,East Coast,Winter,No,January,July,1.05,548,39.06,15.38690329,Pollution,Yes,10,100
+Trout,Salmonidae,Both Coasts,Winter,Yes,February,July,0.2,613,17.45,14.26556283,Habitat Destruction,Yes,8,70.85837899
+Snapper,Lutjanidae,West Coast,Spring,No,September,June,4.6,1447,32.53,8.993605535,Habitat Destruction,No,7,100
+Comber,Serranidae,East Coast,Fall,No,July,October,4.21,1038,1.62,11.64680603,Climate Change,No,6,100
+Chromis,Pomacentridae,East Coast,Fall,Yes,April,August,4.37,237,10.05,19.72430125,Pollution,Yes,10,81.79908995
+Sea Bass,Serranidae,East Coast,Fall,Yes,March,August,3.02,2334,33.39,3.990055611,Climate Change,No,4,74.04067862
+Snapper,Lutjanidae,West Coast,Winter,No,March,August,1.49,861,38.14,9.046603671,Habitat Destruction,Yes,7,100
+Emperor,Lutjanidae,West Coast,Winter,No,December,March,4.69,813,18.63,10.59321475,,Yes,7,100
+Bonito,Scombridae,West Coast,Winter,Yes,January,May,3.77,337,15.89,18.04630359,,Yes,8,100
+Tuna,Scombridae,West Coast,Fall,No,February,October,1.79,884,8.63,8.828945251,Pollution,No,6,100
+Flounder,Pleuronectidae,West Coast,Spring,Yes,November,August,1.23,679,39.43,18.79973416,Climate Change,Yes,8,100
+Chromis,Pomacentridae,East Coast,Winter,No,November,September,0.18,522,22.12,19.9753237,Overfishing,Yes,9,100
+Tuna,Scombridae,West Coast,Spring,No,August,February,3.77,1926,19.34,6.150725256,Overfishing,No,3,89.21723176
+Clownfish,Pomacentridae,East Coast,Summer,Yes,March,July,1.73,1332,16.78,8.170972146,Pollution,No,6,62.52219261
+Mackerel,Scombridae,West Coast,Summer,No,April,March,2.26,1058,21.58,10.64543856,Climate Change,No,6,100
+Bonito,Scombridae,West Coast,Fall,Yes,October,December,0.33,2993,46.03,5.713569572,Overfishing,No,1,100
+Sergeant Major,Pomacentridae,East Coast,Fall,Yes,December,October,2.34,2287,27.5,3.09730045,Overfishing,No,3,55.15653177
+Anthias,Serranidae,East Coast,Spring,Yes,August,October,4.6,741,29.3,18.8827922,Climate Change,Yes,10,100
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,September,March,2.89,1618,15.6,3.52711639,Overfishing,No,1,52.7092336
+Clownfish,Pomacentridae,East Coast,Summer,No,April,February,4.6,133,1.55,18.67487856,Pollution,Yes,8,100
+Damselfish,Pomacentridae,East Coast,Spring,No,May,November,4.59,2715,3.91,4.799368084,Climate Change,No,4,55.24564836
+Plaice,Pleuronectidae,West Coast,Winter,No,January,February,0.66,984,21.94,9.84593612,Climate Change,Yes,7,100
+Kingfish,Scombridae,West Coast,Winter,Yes,December,September,3.95,1323,34.5,9.251470876,Pollution,No,7,100
+Kingfish,Scombridae,West Coast,Spring,No,September,December,4.54,318,14.88,18.59774046,Climate Change,Yes,8,34.66610831
+Char,Salmonidae,Both Coasts,Summer,No,June,December,2.45,2302,27.54,3.526831059,Habitat Destruction,No,3,100
+Snapper,Lutjanidae,West Coast,Spring,No,December,November,2.5,143,6.3,17.75643086,Habitat Destruction,Yes,8,64.97406438
+Snapper,Lutjanidae,West Coast,Fall,Yes,November,March,2.46,2993,21.75,7.356888877,,No,3,65.76909839
+Sole,Pleuronectidae,West Coast,Spring,No,August,February,3.63,620,39.93,13.42566814,Habitat Destruction,Yes,10,68.57036558
+Tuna,Scombridae,West Coast,Fall,Yes,January,August,1.24,600,49.72,17.3217043,,Yes,8,75.6772319
+Halibut,Pleuronectidae,West Coast,Winter,Yes,October,April,2.42,2026,37.41,2.565520977,Pollution,No,1,100
+Jobfish,Lutjanidae,West Coast,Summer,No,October,January,1.07,2518,13.66,7.853004478,Climate Change,No,1,100
+Sergeant Major,Pomacentridae,East Coast,Fall,Yes,October,March,2.71,397,45.08,12.70634708,Overfishing,Yes,10,100
+Chromis,Pomacentridae,East Coast,Fall,No,April,March,4.86,945,33.1,10.54038597,Pollution,Yes,5,61.1352643
+Flounder,Pleuronectidae,West Coast,Summer,Yes,September,October,4.17,1005,6.37,8.301187126,Climate Change,No,6,40.28837665
+Kingfish,Scombridae,West Coast,Fall,Yes,February,October,1.56,1284,23.86,10.30715778,Pollution,No,6,58.85396277
+Tuna,Scombridae,West Coast,Summer,Yes,February,October,4.68,2025,40.18,3.217581874,Climate Change,No,1,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,July,October,0.61,1122,11.6,11.49858375,,No,5,49.60869647
+Sole,Pleuronectidae,West Coast,Summer,No,May,November,1.25,662,10.38,16.09662994,,Yes,10,27.57255849
+Emperor,Lutjanidae,West Coast,Summer,No,April,January,3.66,1942,30.9,7.157270986,,No,3,100
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,May,October,0.61,182,49.36,17.66319381,Climate Change,Yes,10,100
+Grayling,Salmonidae,Both Coasts,Summer,Yes,March,May,3.17,936,20.98,8.851010329,Pollution,Yes,7,51.9655653
+Flounder,Pleuronectidae,West Coast,Spring,Yes,January,September,0.45,439,19.81,16.30111489,Pollution,Yes,10,100
+Salmon,Salmonidae,Both Coasts,Fall,Yes,October,December,1.16,1072,18.17,9.506828517,Habitat Destruction,No,6,68.71407932
+Char,Salmonidae,Both Coasts,Summer,No,February,July,4.11,186,4.52,19.84540579,Pollution,Yes,9,80.93390521
+Mackerel,Scombridae,West Coast,Winter,Yes,April,January,0.37,954,9.34,10.97014884,Habitat Destruction,Yes,6,100
+Halibut,Pleuronectidae,West Coast,Summer,Yes,June,February,2.22,717,20.11,12.91432124,Pollution,Yes,8,100
+Anthias,Serranidae,East Coast,Spring,Yes,August,May,4.48,1680,35.89,6.239131776,Climate Change,No,3,100
+Char,Salmonidae,Both Coasts,Fall,Yes,May,September,2.38,1064,15.8,10.61066051,,No,5,57.10982611
+Sea Bass,Serranidae,East Coast,Winter,Yes,May,January,1.1,2084,49.51,3.1206334,Climate Change,No,4,42.39616589
+Sergeant Major,Pomacentridae,East Coast,Fall,No,December,June,4.08,1419,22.46,10.1537581,Climate Change,No,6,100
+Snapper,Lutjanidae,West Coast,Summer,No,March,September,1.98,1753,33.83,7.664244195,,No,2,52.92600981
+Mackerel,Scombridae,West Coast,Winter,No,August,December,2.47,1784,31.44,3.39285996,Habitat Destruction,No,3,36.20273705
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,July,September,0.52,1421,11.19,9.721031541,Climate Change,No,5,81.68948301
+Sea Bass,Serranidae,East Coast,Spring,No,March,January,2.15,2231,8.2,7.797535701,,No,3,100
+Snapper,Lutjanidae,West Coast,Summer,Yes,May,December,3.95,2722,5.16,7.193113257,,No,4,36.93354891
+Sea Bass,Serranidae,East Coast,Summer,Yes,May,October,4.45,2655,25.55,2.670519566,,No,3,58.12277337
+Mahogany Snapper,Lutjanidae,West Coast,Fall,No,February,May,3.06,738,15.42,14.70544192,Pollution,Yes,9,25.60689036
+Emperor,Lutjanidae,West Coast,Summer,No,June,May,2.67,1101,48.88,8.591221482,Overfishing,No,7,100
+Flounder,Pleuronectidae,West Coast,Spring,Yes,July,March,3.58,1469,17.35,8.971032398,Pollution,No,5,74.70510076
+Char,Salmonidae,Both Coasts,Fall,No,March,January,1.43,1576,38.3,3.694867059,Habitat Destruction,No,1,30.70163459
+Salmon,Salmonidae,Both Coasts,Spring,No,May,November,2.93,301,44.04,16.41650078,Overfishing,Yes,10,100
+Comber,Serranidae,East Coast,Summer,No,April,October,3.13,1824,10.97,2.282540747,Overfishing,No,2,36.94812739
+Comber,Serranidae,East Coast,Fall,No,December,March,1.13,2221,14.02,7.503676187,Pollution,No,2,55.30734572
+Emperor,Lutjanidae,West Coast,Winter,No,July,September,3.26,817,14.96,10.30419018,Overfishing,Yes,7,82.44496736
+Comber,Serranidae,East Coast,Summer,Yes,October,December,2.79,1537,33.08,7.249966071,Climate Change,No,3,100
+Snapper,Lutjanidae,West Coast,Spring,Yes,August,September,3.89,773,20.84,16.31108154,Climate Change,Yes,8,100
+Jobfish,Lutjanidae,West Coast,Winter,No,August,January,2.22,754,36.4,19.87004678,Climate Change,Yes,10,100
+Halibut,Pleuronectidae,West Coast,Fall,No,November,September,3.03,2524,39.81,5.839545908,,No,1,100
+Snapper,Lutjanidae,West Coast,Winter,Yes,December,September,1.6,1259,49.08,11.59750958,,Yes,7,100
+Comber,Serranidae,East Coast,Winter,Yes,September,May,1.06,421,3.11,17.92572695,Climate Change,Yes,9,28.6464289
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,July,December,0.94,233,7.05,17.20397293,Climate Change,Yes,8,100
+Bonito,Scombridae,West Coast,Summer,No,May,March,3.26,1850,32.01,4.615914922,Climate Change,No,2,100
+Halibut,Pleuronectidae,West Coast,Summer,Yes,May,October,3.07,2239,4.17,2.625754924,,No,1,52.38385735
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,July,April,2.33,703,21.22,12.54464186,Habitat Destruction,Yes,9,75.70159966
+Bonito,Scombridae,West Coast,Spring,Yes,May,January,0.11,1479,12.27,8.091939315,Pollution,No,7,28.2958564
+Grayling,Salmonidae,Both Coasts,Fall,Yes,July,December,1.74,1940,9.01,3.781414167,Climate Change,No,2,100
+Comber,Serranidae,East Coast,Fall,Yes,February,December,4.01,2333,39.62,2.790659367,,No,4,100
+Chromis,Pomacentridae,East Coast,Summer,Yes,November,April,1.58,1842,9.38,7.351169886,Pollution,No,3,79.52121296
+Chromis,Pomacentridae,East Coast,Fall,Yes,December,August,3.19,1787,49.44,7.755843172,Habitat Destruction,No,1,73.76144093
+Sergeant Major,Pomacentridae,East Coast,Winter,Yes,July,August,3.17,1755,11.29,2.361172315,Climate Change,No,3,77.50188076
+Clownfish,Pomacentridae,East Coast,Fall,Yes,June,December,1.64,421,19.3,16.53511623,,Yes,10,100
+Sergeant Major,Pomacentridae,East Coast,Fall,No,November,February,0.84,1436,28.33,11.8178015,Overfishing,No,6,100
+Grayling,Salmonidae,Both Coasts,Spring,No,October,August,3.17,1164,46.03,8.622632547,Habitat Destruction,No,5,100
+Sea Bass,Serranidae,East Coast,Spring,No,July,February,4.67,440,33.81,19.29246038,Climate Change,Yes,8,100
+Grayling,Salmonidae,Both Coasts,Summer,Yes,December,September,4.49,951,29.97,10.2177345,Habitat Destruction,Yes,5,56.63130079
+Halibut,Pleuronectidae,West Coast,Fall,Yes,May,December,2.99,2884,43.98,7.443935084,Habitat Destruction,No,2,34.80301294
+Emperor,Lutjanidae,West Coast,Spring,Yes,May,October,3.8,2958,42.51,3.016183147,Habitat Destruction,No,4,20.86099958
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,October,February,0.95,1917,10.73,7.882048081,,No,3,57.12374428
+Salmon,Salmonidae,Both Coasts,Summer,No,September,August,2.2,631,18.19,12.59938749,Pollution,Yes,9,43.2734915
+Clownfish,Pomacentridae,East Coast,Fall,Yes,May,February,0.44,509,3.96,16.6475982,Overfishing,Yes,8,100
+Salmon,Salmonidae,Both Coasts,Winter,No,February,August,3.85,712,11.96,12.1619715,Climate Change,Yes,9,74.45581088
+Grayling,Salmonidae,Both Coasts,Spring,Yes,March,February,3.96,2274,24.84,5.338720651,Habitat Destruction,No,3,100
+Halibut,Pleuronectidae,West Coast,Winter,Yes,August,September,1.76,552,27.09,18.22883019,Pollution,Yes,10,100
+Trout,Salmonidae,Both Coasts,Winter,No,May,August,3.08,1428,37.5,11.59537073,Climate Change,Yes,7,100
+Char,Salmonidae,Both Coasts,Winter,No,October,January,3.45,1951,7.78,5.469804629,Climate Change,No,3,59.15088185
+Char,Salmonidae,Both Coasts,Spring,Yes,November,September,0.98,2120,27.93,5.312377107,Climate Change,No,1,100
+Sole,Pleuronectidae,West Coast,Fall,No,October,January,0.14,998,39.42,11.10533684,Climate Change,Yes,7,45.44676186
+Anthias,Serranidae,East Coast,Winter,No,September,March,0.62,636,12.04,19.12502174,Habitat Destruction,Yes,9,100
+Clownfish,Pomacentridae,East Coast,Summer,No,November,January,3.08,1733,44.06,6.633875582,,No,2,72.96131905
+Grouper,Serranidae,East Coast,Fall,No,March,July,2.16,200,40.11,18.56637731,Climate Change,Yes,9,100
+Damselfish,Pomacentridae,East Coast,Spring,No,May,September,0.22,2556,45.56,6.973063231,,No,2,32.68335207
+Damselfish,Pomacentridae,East Coast,Fall,Yes,January,December,1.63,641,7,14.81041875,,Yes,8,100
+Chromis,Pomacentridae,East Coast,Spring,No,April,July,0.95,2797,9.08,2.291673756,Habitat Destruction,No,2,100
+Clownfish,Pomacentridae,East Coast,Spring,No,September,December,1.77,2934,24.3,7.158156364,Climate Change,No,4,100
+Tuna,Scombridae,West Coast,Fall,No,November,March,0.46,302,46.02,15.09981793,Pollution,Yes,8,60.8721461
+Char,Salmonidae,Both Coasts,Winter,No,January,April,4.18,442,4.48,15.97327588,Habitat Destruction,Yes,10,100
+Grouper,Serranidae,East Coast,Spring,No,March,December,1.51,739,10.04,13.95906135,Overfishing,Yes,10,100
+Anthias,Serranidae,East Coast,Winter,Yes,January,November,3.58,1789,38.72,3.318333628,Habitat Destruction,No,1,100
+Jobfish,Lutjanidae,West Coast,Fall,No,April,August,1.58,2466,41.52,4.941019176,Overfishing,No,4,92.381292
+Flounder,Pleuronectidae,West Coast,Summer,Yes,January,February,3.34,222,33.41,16.05977793,,Yes,9,100
+Clownfish,Pomacentridae,East Coast,Spring,No,November,June,3.57,1314,35.55,8.249349391,Overfishing,No,7,100
+Sea Bass,Serranidae,East Coast,Spring,Yes,December,July,0.65,387,2.7,15.00984138,Climate Change,Yes,9,100
+Damselfish,Pomacentridae,East Coast,Fall,No,August,April,3.04,466,21.72,18.93563417,,Yes,8,46.85659796
+Emperor,Lutjanidae,West Coast,Winter,Yes,February,July,4.88,2655,46.94,4.051835719,Climate Change,No,1,100
+Halibut,Pleuronectidae,West Coast,Summer,Yes,June,July,1.08,2981,12.49,2.880241668,Overfishing,No,2,100
+Sergeant Major,Pomacentridae,East Coast,Spring,Yes,January,September,0.57,474,6.14,16.06405499,Overfishing,Yes,9,100
+Trout,Salmonidae,Both Coasts,Summer,No,January,November,4.09,1501,48.5,4.823229888,Pollution,No,2,56.12653424
+Mackerel,Scombridae,West Coast,Fall,Yes,June,April,3.38,2952,22.19,5.776280874,,No,1,37.77860124
+Halibut,Pleuronectidae,West Coast,Fall,Yes,September,January,1.46,1272,2.36,10.01121862,Overfishing,No,6,100
+Comber,Serranidae,East Coast,Spring,Yes,April,February,0.44,508,37.88,18.48436926,Habitat Destruction,Yes,9,17.73770195
+Anthias,Serranidae,East Coast,Spring,Yes,May,December,3.72,2054,48.14,7.719010466,Pollution,No,4,42.08642272
+Trout,Salmonidae,Both Coasts,Summer,Yes,July,January,2.74,292,44.68,17.5898182,Pollution,Yes,9,100
+Chromis,Pomacentridae,East Coast,Fall,Yes,May,August,0.74,917,48.2,9.191832883,Climate Change,Yes,6,92.77302777
+Grouper,Serranidae,East Coast,Summer,No,February,January,4.53,1644,12.91,3.783689134,Pollution,No,2,100
+Sergeant Major,Pomacentridae,East Coast,Winter,Yes,February,October,2.82,1107,25.89,11.62766624,Overfishing,Yes,7,73.43114591
+Comber,Serranidae,East Coast,Spring,Yes,June,November,4.24,759,7.81,12.87794098,Overfishing,Yes,8,100
+Tuna,Scombridae,West Coast,Spring,No,October,March,1.4,232,18.97,17.57326043,Climate Change,Yes,8,49.07538285
+Anthias,Serranidae,East Coast,Winter,No,June,August,1.66,1414,24.9,9.106394059,Overfishing,No,6,100
+Sergeant Major,Pomacentridae,East Coast,Winter,No,March,December,0.2,908,4.75,11.53009917,Habitat Destruction,Yes,6,75.44999303
+Trout,Salmonidae,Both Coasts,Spring,No,March,January,4.85,310,23.99,19.78278104,Habitat Destruction,Yes,10,64.31458833
+Kingfish,Scombridae,West Coast,Spring,Yes,June,October,3.95,562,15.15,15.60913327,Pollution,Yes,10,100
+Plaice,Pleuronectidae,West Coast,Summer,Yes,November,October,4.75,2576,1.51,5.708006334,Overfishing,No,1,100
+Plaice,Pleuronectidae,West Coast,Spring,Yes,August,February,3.06,557,31.47,18.15574936,,Yes,9,100
+Flounder,Pleuronectidae,West Coast,Winter,No,March,July,3.27,1566,9.98,7.231230018,Habitat Destruction,No,3,100
+Jobfish,Lutjanidae,West Coast,Fall,Yes,July,August,3.47,1955,24.94,6.617136191,Overfishing,No,1,77.21787667
+Anthias,Serranidae,East Coast,Spring,No,May,January,3.51,971,42.34,8.305214919,,Yes,6,31.17077904
+Clownfish,Pomacentridae,East Coast,Spring,No,April,December,4.84,110,16.56,13.08985651,,Yes,9,91.18896386
+Salmon,Salmonidae,Both Coasts,Fall,No,June,September,3.67,171,16.36,16.74514438,Climate Change,Yes,10,100
+Comber,Serranidae,East Coast,Fall,Yes,June,November,4.89,1372,40.88,9.145535595,Habitat Destruction,No,6,100
+Snapper,Lutjanidae,West Coast,Spring,No,February,July,2.83,1482,21.66,10.66239575,Climate Change,Yes,6,76.05551793
+Halibut,Pleuronectidae,West Coast,Winter,No,December,September,4.1,214,19.91,19.7821322,Overfishing,Yes,9,100
+Damselfish,Pomacentridae,East Coast,Fall,No,April,October,3.56,446,35.02,13.96159266,,Yes,8,50.76054398
+Grayling,Salmonidae,Both Coasts,Winter,Yes,June,February,0.5,483,30.36,13.24054061,Climate Change,Yes,8,100
+Mahogany Snapper,Lutjanidae,West Coast,Fall,No,April,November,3.2,694,17.59,19.41612739,Climate Change,Yes,9,63.33413701
+Sole,Pleuronectidae,West Coast,Summer,Yes,August,December,0.21,2769,16.72,6.36112635,Habitat Destruction,No,3,100
+Emperor,Lutjanidae,West Coast,Spring,Yes,June,July,3.37,2741,36.28,4.928641759,Pollution,No,2,100
+Snapper,Lutjanidae,West Coast,Summer,No,June,December,0.52,562,32.11,17.96693973,,Yes,8,100
+Grouper,Serranidae,East Coast,Summer,Yes,April,January,4.24,1199,21.84,9.022872029,Pollution,No,5,100
+Sea Bass,Serranidae,East Coast,Winter,Yes,October,April,4.66,2060,18.59,5.011002621,Climate Change,No,1,100
+Char,Salmonidae,Both Coasts,Spring,No,January,July,4.88,1399,34.67,8.008395429,Climate Change,No,5,100
+Emperor,Lutjanidae,West Coast,Winter,Yes,March,November,2.69,1164,32.96,11.33132513,,Yes,5,100
+Char,Salmonidae,Both Coasts,Winter,Yes,February,August,1.93,384,9.56,13.72404238,Overfishing,Yes,9,100
+Comber,Serranidae,East Coast,Fall,No,April,March,3.68,2628,4.96,2.892405708,Climate Change,No,1,100
+Snapper,Lutjanidae,West Coast,Winter,Yes,July,September,0.23,868,10.81,11.91353754,Pollution,Yes,7,100
+Flounder,Pleuronectidae,West Coast,Winter,No,January,December,1.19,1455,38.32,11.47778726,Climate Change,Yes,7,47.4171555
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,September,May,4.56,2881,33.29,2.799786965,Climate Change,No,1,50.53156278
+Flounder,Pleuronectidae,West Coast,Fall,No,December,November,1.22,2698,35.79,3.35354313,Climate Change,No,3,100
+Grouper,Serranidae,East Coast,Fall,No,April,January,3.9,2437,9.42,3.950377274,Pollution,No,1,100
+Flounder,Pleuronectidae,West Coast,Winter,No,December,February,2.73,1076,41.04,8.150613378,Climate Change,No,6,68.90559365
+Mahogany Snapper,Lutjanidae,West Coast,Fall,No,February,November,1.09,2419,42.01,3.877856567,Overfishing,No,2,100
+Anthias,Serranidae,East Coast,Summer,No,September,August,4.35,876,41.02,10.04799496,Climate Change,Yes,7,85.35152444
+Emperor,Lutjanidae,West Coast,Fall,Yes,September,April,0.26,1674,28.05,5.455801811,Pollution,No,4,52.77176687
+Jobfish,Lutjanidae,West Coast,Winter,Yes,March,August,4.33,2980,9.53,5.94775157,,No,4,100
+Snapper,Lutjanidae,West Coast,Winter,Yes,March,August,1.92,1644,15.53,7.614733733,Climate Change,No,2,100
+Mackerel,Scombridae,West Coast,Fall,No,March,June,0.56,1349,39.48,8.320533042,Habitat Destruction,No,7,100
+Sergeant Major,Pomacentridae,East Coast,Spring,No,July,August,0.26,2908,18.31,6.887209789,Habitat Destruction,No,2,100
+Grouper,Serranidae,East Coast,Winter,No,December,April,3.36,453,27.58,17.10648213,Habitat Destruction,Yes,10,100
+Clownfish,Pomacentridae,East Coast,Fall,Yes,August,July,0.11,2686,22.88,4.337898619,Pollution,No,2,100
+Damselfish,Pomacentridae,East Coast,Spring,Yes,October,February,4.59,210,17.49,15.89561615,Pollution,Yes,10,100
+Bonito,Scombridae,West Coast,Fall,No,June,December,1.51,1497,16.78,11.36017267,Overfishing,Yes,7,100
+Mackerel,Scombridae,West Coast,Fall,No,August,November,3.84,458,46.19,13.1957909,Overfishing,Yes,9,53.32869724
+Emperor,Lutjanidae,West Coast,Winter,Yes,July,January,3.04,1894,42.36,4.337883618,,No,4,100
+Anthias,Serranidae,East Coast,Fall,No,August,January,1.04,2522,34.98,5.585520068,Overfishing,No,4,72.14966739
+Salmon,Salmonidae,Both Coasts,Summer,No,April,June,2.19,1717,15.59,6.997098987,,No,2,93.94905675
+Salmon,Salmonidae,Both Coasts,Winter,No,August,December,1.86,1648,29.3,6.01058316,Pollution,No,3,100
+Flounder,Pleuronectidae,West Coast,Winter,Yes,December,February,0.75,2674,37.58,6.711936426,Overfishing,No,4,56.51506707
+Chromis,Pomacentridae,East Coast,Spring,No,January,June,0.85,364,15.17,15.09925301,Climate Change,Yes,8,100
+Jobfish,Lutjanidae,West Coast,Summer,Yes,May,November,4.94,266,29.33,17.33491253,Climate Change,Yes,9,100
+Plaice,Pleuronectidae,West Coast,Spring,Yes,February,October,3.16,2366,19.64,4.19152022,Climate Change,No,3,47.10859911
+Sole,Pleuronectidae,West Coast,Winter,Yes,March,July,0.63,2358,20.82,4.919331803,Habitat Destruction,No,1,100
+Clownfish,Pomacentridae,East Coast,Winter,No,September,April,2.81,2988,13.74,3.802811724,Pollution,No,4,100
+Anthias,Serranidae,East Coast,Spring,No,July,March,1.25,1655,34.84,6.15262783,Overfishing,No,3,100
+Clownfish,Pomacentridae,East Coast,Winter,Yes,October,September,0.75,753,1.52,16.94958731,Overfishing,Yes,10,66.55346514
+Comber,Serranidae,East Coast,Summer,No,January,August,3.63,2941,25.75,2.258773983,Habitat Destruction,No,3,100
+Halibut,Pleuronectidae,West Coast,Summer,No,January,November,3.91,739,42.96,12.23109941,,Yes,8,100
+Grouper,Serranidae,East Coast,Summer,No,November,August,3.16,1562,23.14,5.475300549,Pollution,No,3,84.53427754
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,November,October,3.78,1944,23.36,7.395003762,Pollution,No,1,100
+Salmon,Salmonidae,Both Coasts,Winter,Yes,September,January,4.49,1248,42.93,8.930658417,Pollution,No,6,100
+Sole,Pleuronectidae,West Coast,Fall,No,August,September,3.17,587,12.49,18.74906033,Habitat Destruction,Yes,8,100
+Jobfish,Lutjanidae,West Coast,Summer,No,May,March,2.01,117,33.58,15.84710123,Climate Change,Yes,8,100
+Emperor,Lutjanidae,West Coast,Summer,No,August,March,1.3,932,34.86,8.577604533,Climate Change,Yes,6,100
+Damselfish,Pomacentridae,East Coast,Winter,No,October,January,2.16,2642,15.5,4.930905666,Habitat Destruction,No,3,100
+Sea Bass,Serranidae,East Coast,Fall,No,January,April,0.72,175,42.32,14.38573301,Overfishing,Yes,10,100
+Tuna,Scombridae,West Coast,Fall,Yes,July,August,1.24,1531,16.24,6.112691376,Climate Change,No,1,100
+Flounder,Pleuronectidae,West Coast,Summer,Yes,June,September,0.87,1785,34.48,6.539889732,Overfishing,No,2,100
+Sea Bass,Serranidae,East Coast,Summer,No,August,July,4.56,1499,47.08,10.99061125,Overfishing,Yes,6,100
+Tuna,Scombridae,West Coast,Winter,Yes,July,June,3.49,304,27.62,15.82672088,Habitat Destruction,Yes,8,82.85199468
+Halibut,Pleuronectidae,West Coast,Spring,Yes,January,November,3.44,1222,33.68,10.74277699,Overfishing,Yes,6,100
+Damselfish,Pomacentridae,East Coast,Winter,Yes,April,September,1.37,617,18.84,13.57226879,Pollution,Yes,9,93.92276752
+Grouper,Serranidae,East Coast,Fall,Yes,August,November,2.07,2816,29.17,2.062059527,Climate Change,No,4,100
+Sea Bass,Serranidae,East Coast,Spring,Yes,December,October,2.87,2920,45.7,2.272180115,Overfishing,No,2,100
+Plaice,Pleuronectidae,West Coast,Summer,Yes,July,September,2.29,124,24,13.35655201,Habitat Destruction,Yes,9,100
+Damselfish,Pomacentridae,East Coast,Spring,Yes,May,November,1.12,2424,32.06,3.390947667,Pollution,No,3,65.87493499
+Salmon,Salmonidae,Both Coasts,Spring,Yes,November,May,3.81,1467,44.2,10.23953009,Habitat Destruction,Yes,5,49.53623106
+Trout,Salmonidae,Both Coasts,Summer,No,January,February,0.28,2494,7.35,4.022001339,Overfishing,No,2,71.74209913
+Snapper,Lutjanidae,West Coast,Fall,No,June,May,2.35,258,2.61,18.76210157,Habitat Destruction,Yes,8,100
+Jobfish,Lutjanidae,West Coast,Summer,No,October,November,1.82,437,48.48,17.13202194,Climate Change,Yes,8,61.12977045
+Damselfish,Pomacentridae,East Coast,Summer,No,August,July,0.38,191,28.79,19.35991581,,Yes,10,100
+Sea Bass,Serranidae,East Coast,Winter,No,May,January,1.95,1748,27.56,6.270095233,,No,4,100
+Sergeant Major,Pomacentridae,East Coast,Winter,Yes,August,December,3.9,1622,28.7,4.327030416,Habitat Destruction,No,2,63.75659832
+Mackerel,Scombridae,West Coast,Winter,Yes,November,May,2.74,2409,12.52,2.697878851,Habitat Destruction,No,1,100
+Chromis,Pomacentridae,East Coast,Summer,Yes,May,March,2.65,659,7.43,17.73067502,Overfishing,Yes,10,41.24287233
+Snapper,Lutjanidae,West Coast,Fall,Yes,February,June,0.76,1465,42.13,10.95456133,Habitat Destruction,Yes,6,100
+Trout,Salmonidae,Both Coasts,Fall,Yes,August,October,2.5,309,34.32,18.50488417,Habitat Destruction,Yes,9,100
+Anthias,Serranidae,East Coast,Summer,No,August,February,2.71,1231,42.94,11.76686234,,Yes,6,100
+Bonito,Scombridae,West Coast,Fall,Yes,October,December,4.86,234,25.44,14.99077069,Climate Change,Yes,8,48.83250531
+Sole,Pleuronectidae,West Coast,Winter,Yes,May,April,1.65,2858,34.09,4.542628247,Pollution,No,1,48.82537847
+Sea Bass,Serranidae,East Coast,Winter,No,May,June,0.73,1470,29.67,9.840475012,Pollution,No,7,95.54356318
+Halibut,Pleuronectidae,West Coast,Fall,No,December,September,2.43,1973,1.14,4.634704213,Climate Change,No,3,100
+Kingfish,Scombridae,West Coast,Spring,Yes,October,November,3.86,1854,40.62,2.757732295,Climate Change,No,1,100
+Snapper,Lutjanidae,West Coast,Winter,No,January,August,0.77,403,25.22,19.62409773,Pollution,Yes,10,100
+Tuna,Scombridae,West Coast,Spring,Yes,November,May,3.64,337,28.92,16.14692222,Overfishing,Yes,10,100
+Damselfish,Pomacentridae,East Coast,Spring,No,July,January,0.59,1248,10.49,9.251933698,Overfishing,No,7,100
+Damselfish,Pomacentridae,East Coast,Fall,Yes,February,June,0.22,2129,34.93,6.125106585,Pollution,No,4,88.60699048
+Emperor,Lutjanidae,West Coast,Fall,No,September,May,4.13,632,28.99,19.46301295,Habitat Destruction,Yes,8,51.60868774
+Tuna,Scombridae,West Coast,Winter,No,August,November,3.13,2637,18.72,2.671011704,Habitat Destruction,No,4,100
+Clownfish,Pomacentridae,East Coast,Spring,Yes,November,January,1.11,2566,1.02,5.487108385,,No,2,100
+Bonito,Scombridae,West Coast,Fall,No,February,May,4.62,1542,46.01,4.389523717,Habitat Destruction,No,2,100
+Halibut,Pleuronectidae,West Coast,Winter,Yes,June,December,1.72,714,20.41,14.11210501,Pollution,Yes,10,100
+Sea Bass,Serranidae,East Coast,Fall,No,April,August,0.23,2477,45.95,2.205343493,Overfishing,No,4,100
+Mackerel,Scombridae,West Coast,Summer,Yes,March,May,0.84,1492,21.55,8.182521498,Climate Change,No,7,100
+Sea Bass,Serranidae,East Coast,Summer,No,December,August,3.7,722,33.26,18.83148981,Overfishing,Yes,10,100
+Kingfish,Scombridae,West Coast,Fall,Yes,December,November,0.48,2165,18.67,4.357963389,Habitat Destruction,No,2,100
+Flounder,Pleuronectidae,West Coast,Fall,Yes,August,January,3.72,1212,21.7,9.435305955,Overfishing,No,7,59.19345786
+Snapper,Lutjanidae,West Coast,Fall,Yes,March,September,0.65,1300,43.32,9.235394974,Habitat Destruction,No,5,31.91628568
+Chromis,Pomacentridae,East Coast,Fall,No,September,December,1.45,265,4.97,17.11786422,Climate Change,Yes,8,100
+Halibut,Pleuronectidae,West Coast,Winter,No,November,June,4.48,257,14.3,19.35611432,Pollution,Yes,8,97.46363492
+Jobfish,Lutjanidae,West Coast,Spring,Yes,April,August,3.71,2745,30.19,3.869383987,Climate Change,No,3,100
+Damselfish,Pomacentridae,East Coast,Summer,No,February,August,2.36,2776,36.24,6.913632991,,No,4,100
+Grayling,Salmonidae,Both Coasts,Spring,No,March,November,0.39,1201,4.26,11.32065526,Habitat Destruction,No,5,74.6053175
+Mahogany Snapper,Lutjanidae,West Coast,Summer,No,February,September,0.99,380,13.46,17.50075948,Pollution,Yes,10,100
+Plaice,Pleuronectidae,West Coast,Spring,No,July,April,0.41,2522,20.69,6.193400669,Pollution,No,2,100
+Sole,Pleuronectidae,West Coast,Fall,Yes,July,September,1.52,586,5.57,15.20582378,Pollution,Yes,10,87.24091463
+Damselfish,Pomacentridae,East Coast,Fall,Yes,May,October,1.92,2376,13.64,3.759313453,Habitat Destruction,No,2,92.02376931
+Bonito,Scombridae,West Coast,Fall,Yes,November,September,0.81,508,13.28,13.50148842,Climate Change,Yes,10,72.06452781
+Comber,Serranidae,East Coast,Winter,No,February,September,2.47,1239,42.67,10.82221768,Climate Change,Yes,5,100
+Jobfish,Lutjanidae,West Coast,Spring,Yes,May,February,4.55,2421,43.32,6.637529949,Climate Change,No,4,100
+Jobfish,Lutjanidae,West Coast,Winter,No,May,January,2.89,1052,28.9,11.17532891,,Yes,7,100
+Flounder,Pleuronectidae,West Coast,Summer,No,April,September,3.37,2685,31.11,3.59232866,Overfishing,No,2,28.58249626
+Salmon,Salmonidae,Both Coasts,Summer,Yes,April,December,0.52,2490,27.59,2.705904093,Climate Change,No,3,100
+Mahogany Snapper,Lutjanidae,West Coast,Winter,No,June,October,4.15,2483,21.63,6.65843205,Pollution,No,3,67.85632055
+Halibut,Pleuronectidae,West Coast,Spring,No,January,April,3.66,1038,11.43,10.37808639,Overfishing,Yes,7,100
+Plaice,Pleuronectidae,West Coast,Winter,No,September,March,0.23,2046,39.5,3.970242055,,No,4,100
+Sea Bass,Serranidae,East Coast,Fall,Yes,June,May,3.75,731,4.1,16.4399505,Habitat Destruction,Yes,8,58.3709057
+Bonito,Scombridae,West Coast,Winter,No,January,March,2.64,1978,22.62,2.845419451,,No,1,39.85747988
+Bonito,Scombridae,West Coast,Spring,Yes,November,February,3.82,614,7.7,17.98199094,Pollution,Yes,9,100
+Bonito,Scombridae,West Coast,Fall,Yes,September,October,1.62,274,26.01,14.03592648,Habitat Destruction,Yes,9,53.61289753
+Grayling,Salmonidae,Both Coasts,Spring,Yes,September,July,3.38,2775,45,7.443298811,Climate Change,No,3,100
+Plaice,Pleuronectidae,West Coast,Fall,Yes,December,February,4.85,2933,1.01,6.487117846,Habitat Destruction,No,2,63.97649288
+Trout,Salmonidae,Both Coasts,Summer,No,October,May,3.48,881,34.45,11.88765059,Climate Change,Yes,7,100
+Jobfish,Lutjanidae,West Coast,Spring,No,July,October,3.98,1041,34.1,10.42096265,,Yes,7,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,December,February,2.63,1915,22.19,3.847982451,Habitat Destruction,No,4,100
+Bonito,Scombridae,West Coast,Fall,No,October,November,3.41,1210,44.18,10.949004,Climate Change,Yes,7,89.02848199
+Damselfish,Pomacentridae,East Coast,Winter,No,February,October,0.49,1079,49.66,10.1098293,Pollution,Yes,7,77.50669608
+Mackerel,Scombridae,West Coast,Winter,Yes,August,November,3.33,1139,22.9,11.66067377,Pollution,No,5,59.75228859
+Grouper,Serranidae,East Coast,Fall,No,May,March,0.4,2848,47.6,4.458996011,Overfishing,No,2,11.53959545
+Damselfish,Pomacentridae,East Coast,Spring,No,June,November,3.07,635,17.34,12.70488087,Pollution,Yes,10,100
+Kingfish,Scombridae,West Coast,Spring,No,August,July,3.46,2864,37.11,7.126647428,Pollution,No,2,100
+Damselfish,Pomacentridae,East Coast,Summer,Yes,December,June,0.24,952,24.45,11.50959156,,Yes,7,96.39861664
+Trout,Salmonidae,Both Coasts,Fall,No,January,February,2,1709,9.62,6.196946248,,No,3,59.69732785
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,September,July,0.27,793,31.39,19.51229091,Habitat Destruction,Yes,10,55.29817204
+Sole,Pleuronectidae,West Coast,Winter,Yes,June,December,3.03,1874,9.99,2.159529407,Climate Change,No,3,54.21226879
+Sole,Pleuronectidae,West Coast,Spring,Yes,July,June,3.2,2948,37.02,3.711019196,Overfishing,No,1,100
+Char,Salmonidae,Both Coasts,Spring,Yes,April,July,3.04,2387,8.78,5.750709371,Overfishing,No,2,100
+Emperor,Lutjanidae,West Coast,Winter,No,October,January,3.64,1139,38.27,9.431286895,Pollution,No,5,100
+Comber,Serranidae,East Coast,Spring,No,December,May,4.71,501,19.78,17.54456061,,Yes,9,100
+Tuna,Scombridae,West Coast,Winter,Yes,July,June,3.15,2367,42.54,4.807724728,Pollution,No,3,100
+Tuna,Scombridae,West Coast,Spring,No,July,December,3.71,1049,8.61,10.85957366,Pollution,Yes,5,76.7048209
+Snapper,Lutjanidae,West Coast,Summer,Yes,September,April,3.81,505,46.2,18.98988842,Habitat Destruction,Yes,9,40.13264395
+Halibut,Pleuronectidae,West Coast,Fall,Yes,December,August,4.71,814,43.69,11.69618549,,Yes,5,79.03480229
+Sergeant Major,Pomacentridae,East Coast,Spring,Yes,November,September,2.31,2668,36.54,6.951378216,Pollution,No,2,68.359185
+Chromis,Pomacentridae,East Coast,Winter,Yes,January,December,4.57,1423,33.69,8.49714982,Climate Change,No,7,62.04595326
+Bonito,Scombridae,West Coast,Summer,Yes,January,December,1.18,599,11.56,14.11878191,Climate Change,Yes,10,100
+Snapper,Lutjanidae,West Coast,Summer,No,August,April,3.9,657,6.47,16.62007595,Climate Change,Yes,10,100
+Chromis,Pomacentridae,East Coast,Summer,Yes,May,September,1.99,462,26.06,16.54599807,Overfishing,Yes,8,40.84160767
+Chromis,Pomacentridae,East Coast,Fall,Yes,September,March,1.87,2517,37.71,5.292913446,,No,3,97.68912427
+Sea Bass,Serranidae,East Coast,Summer,No,May,January,4.08,355,21.29,17.84948367,Pollution,Yes,9,100
+Sergeant Major,Pomacentridae,East Coast,Spring,No,August,January,4.97,1219,31.61,8.563866688,Pollution,No,6,100
+Sergeant Major,Pomacentridae,East Coast,Winter,Yes,January,November,3.6,176,24.7,15.71143693,Pollution,Yes,8,100
+Clownfish,Pomacentridae,East Coast,Fall,No,May,November,3.6,339,31.45,13.49514881,Climate Change,Yes,8,100
+Grouper,Serranidae,East Coast,Summer,No,December,January,1.6,1780,5.02,5.85849663,Pollution,No,4,100
+Kingfish,Scombridae,West Coast,Summer,No,January,June,1.51,1429,13.57,8.140058836,Climate Change,No,5,100
+Emperor,Lutjanidae,West Coast,Summer,Yes,January,June,2.13,374,5.48,16.38789924,Climate Change,Yes,8,100
+Grouper,Serranidae,East Coast,Fall,No,February,September,2.59,2786,19.51,7.329691133,Habitat Destruction,No,2,100
+Emperor,Lutjanidae,West Coast,Spring,No,January,May,2.65,2172,4.25,5.940290838,Habitat Destruction,No,2,100
+Sea Bass,Serranidae,East Coast,Summer,Yes,June,August,4.66,2090,4.94,7.090991296,Pollution,No,1,100
+Jobfish,Lutjanidae,West Coast,Spring,Yes,November,October,1.94,1314,36.86,10.94432275,Overfishing,Yes,7,100
+Tuna,Scombridae,West Coast,Fall,Yes,May,August,0.12,2097,46.18,7.247848909,Habitat Destruction,No,1,100
+Sergeant Major,Pomacentridae,East Coast,Spring,Yes,December,January,2.91,1912,11.94,7.408925575,Overfishing,No,1,100
+Jobfish,Lutjanidae,West Coast,Fall,Yes,July,May,3.84,969,46.95,11.35673226,Habitat Destruction,Yes,5,33.46221022
+Grouper,Serranidae,East Coast,Spring,Yes,September,February,1.15,402,15.59,17.64297576,,Yes,8,30.01085237
+Mackerel,Scombridae,West Coast,Spring,Yes,October,September,3.85,1834,47.02,3.779764119,Climate Change,No,3,100
+Sole,Pleuronectidae,West Coast,Spring,Yes,May,April,4.75,1305,6.73,8.857184742,,No,5,100
+Flounder,Pleuronectidae,West Coast,Fall,Yes,October,December,0.66,1295,6.33,11.816671,Habitat Destruction,Yes,7,51.29737973
+Char,Salmonidae,Both Coasts,Summer,No,September,July,3.39,1441,41.37,10.42031548,Overfishing,Yes,7,100
+Trout,Salmonidae,Both Coasts,Summer,No,May,December,3.47,366,47.02,14.59972289,Overfishing,Yes,10,10.14965284
+Chromis,Pomacentridae,East Coast,Spring,Yes,August,November,4.54,1922,4.77,2.43960622,,No,4,87.80246689
+Grouper,Serranidae,East Coast,Fall,Yes,October,September,4.79,413,24.19,19.11702021,Pollution,Yes,10,27.70535327
+Damselfish,Pomacentridae,East Coast,Spring,No,March,May,1.24,267,14.25,19.50247616,Habitat Destruction,Yes,10,56.98067951
+Grayling,Salmonidae,Both Coasts,Fall,No,July,October,0.74,1041,25.23,11.28937438,,No,5,100
+Mackerel,Scombridae,West Coast,Winter,Yes,June,October,4.12,1647,47.26,6.784692605,Climate Change,No,1,100
+Char,Salmonidae,Both Coasts,Winter,No,April,October,2.16,2949,32.91,3.755927264,Pollution,No,2,38.83052454
+Sergeant Major,Pomacentridae,East Coast,Fall,No,September,May,1.69,738,11.98,17.2072193,Habitat Destruction,Yes,10,39.61646467
+Plaice,Pleuronectidae,West Coast,Spring,Yes,April,August,1.15,822,21.23,8.269250284,Pollution,No,6,100
+Snapper,Lutjanidae,West Coast,Winter,Yes,January,May,2.83,2768,4.33,3.165427947,Climate Change,No,1,100
+Grayling,Salmonidae,Both Coasts,Summer,Yes,June,January,0.6,2792,10.63,5.628707314,Habitat Destruction,No,1,100
+Anthias,Serranidae,East Coast,Spring,Yes,May,July,4.92,2092,30.17,7.327091528,Climate Change,No,2,100
+Sole,Pleuronectidae,West Coast,Fall,Yes,September,January,2.59,2869,12.63,4.511128791,,No,1,31.0843058
+Kingfish,Scombridae,West Coast,Summer,No,July,February,4.93,1093,15.82,11.24201456,Pollution,No,6,30.6203461
+Grouper,Serranidae,East Coast,Fall,Yes,August,January,1.17,552,37.61,18.78080467,Pollution,Yes,8,100
+Halibut,Pleuronectidae,West Coast,Fall,Yes,January,March,4.76,284,1.61,17.33579683,Habitat Destruction,Yes,9,60.90427351
+Bonito,Scombridae,West Coast,Winter,No,August,November,0.76,487,23.7,13.18177387,,Yes,10,92.85382117
+Emperor,Lutjanidae,West Coast,Summer,No,March,July,0.1,2353,49.28,6.12145345,Pollution,No,3,100
+Grayling,Salmonidae,Both Coasts,Summer,Yes,May,October,1.13,1901,9.88,4.942953705,Overfishing,No,1,99.5620431
+Kingfish,Scombridae,West Coast,Spring,No,April,January,0.58,1195,49.93,11.3010924,Habitat Destruction,Yes,6,41.7649532
+Anthias,Serranidae,East Coast,Winter,No,November,February,2.78,2254,34.33,7.121480238,Habitat Destruction,No,1,100
+Jobfish,Lutjanidae,West Coast,Winter,Yes,February,September,0.87,1461,29.85,11.56740933,Pollution,Yes,7,42.96835929
+Mackerel,Scombridae,West Coast,Spring,Yes,September,October,3.83,1392,45.71,9.850148999,Overfishing,No,7,38.2924288
+Damselfish,Pomacentridae,East Coast,Winter,No,March,February,1.54,117,19.98,13.10649329,Overfishing,Yes,9,100
+Tuna,Scombridae,West Coast,Winter,Yes,October,September,1.23,1265,31.56,10.70987343,,Yes,5,100
+Kingfish,Scombridae,West Coast,Fall,No,July,November,1.8,2515,14.6,7.676109765,Pollution,No,1,100
+Char,Salmonidae,Both Coasts,Summer,Yes,June,March,2.61,1486,15.59,10.2354671,,Yes,7,100
+Emperor,Lutjanidae,West Coast,Spring,Yes,July,May,4.32,311,24.41,12.6909046,Habitat Destruction,Yes,8,100
+Jobfish,Lutjanidae,West Coast,Summer,Yes,July,March,1.84,2347,43.17,2.002673594,Climate Change,No,4,100
+Mackerel,Scombridae,West Coast,Summer,No,May,July,4.77,1240,16.4,8.215844995,,No,6,85.5609934
+Bonito,Scombridae,West Coast,Summer,Yes,June,July,3.02,160,47.5,15.34267829,Overfishing,Yes,10,92.24629021
+Emperor,Lutjanidae,West Coast,Summer,Yes,October,January,4.79,1202,27.43,10.12202032,Overfishing,No,5,54.70224059
+Mackerel,Scombridae,West Coast,Spring,Yes,August,June,4.05,1469,32.67,10.8276828,Pollution,Yes,7,89.34974914
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,December,February,2.73,1252,18.39,10.13787428,Pollution,No,5,40.36118426
+Plaice,Pleuronectidae,West Coast,Spring,No,May,March,3.15,2735,16.23,5.186018718,Climate Change,No,2,95.08993959
+Sea Bass,Serranidae,East Coast,Winter,Yes,March,May,1.2,447,30.72,12.20326171,Climate Change,Yes,8,100
+Jobfish,Lutjanidae,West Coast,Fall,No,January,October,1.95,2755,27.18,3.067847613,Pollution,No,3,100
+Grayling,Salmonidae,Both Coasts,Fall,No,June,April,2.98,1607,12.58,3.531759582,Habitat Destruction,No,2,100
+Chromis,Pomacentridae,East Coast,Fall,Yes,March,October,4.92,267,29.71,12.84490921,Climate Change,Yes,8,100
+Plaice,Pleuronectidae,West Coast,Summer,No,May,January,4.87,298,24.18,16.12072611,Pollution,Yes,9,100
+Mahogany Snapper,Lutjanidae,West Coast,Winter,Yes,January,September,3,1991,33.47,7.717259663,Pollution,No,4,54.77970295
+Grayling,Salmonidae,Both Coasts,Spring,No,October,September,3.46,457,49.17,13.09399982,Overfishing,Yes,10,100
+Grouper,Serranidae,East Coast,Winter,Yes,September,May,1.18,1731,35.32,5.6563307,Overfishing,No,3,51.10813334
+Char,Salmonidae,Both Coasts,Summer,Yes,December,October,1.49,2736,36.86,4.71184044,Climate Change,No,1,100
+Snapper,Lutjanidae,West Coast,Spring,Yes,November,January,2.37,713,30.46,14.66172877,Overfishing,Yes,10,68.23157806
+Emperor,Lutjanidae,West Coast,Summer,No,October,December,0.68,1469,42.57,9.796191826,Overfishing,No,7,51.15035132
+Halibut,Pleuronectidae,West Coast,Winter,Yes,July,September,1.23,1154,4.84,10.51531405,Overfishing,No,5,79.28256682
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,March,November,1.91,1170,19.69,10.17506554,Climate Change,No,5,62.8269951
+Bonito,Scombridae,West Coast,Winter,Yes,October,April,4.16,1322,41.45,8.17051698,Climate Change,No,7,60.29775985
+Plaice,Pleuronectidae,West Coast,Winter,No,May,April,2.79,1140,1.24,8.416319347,Overfishing,No,7,100
+Grouper,Serranidae,East Coast,Winter,No,May,April,4.98,1314,13.27,11.43267403,Overfishing,No,6,29.47374903
+Sergeant Major,Pomacentridae,East Coast,Summer,No,April,October,3.62,2703,15.83,2.615565997,,No,3,98.32662345
+Clownfish,Pomacentridae,East Coast,Winter,Yes,April,June,1.54,231,29.75,13.09229936,Habitat Destruction,Yes,10,100
+Plaice,Pleuronectidae,West Coast,Summer,Yes,March,January,3.03,1906,6.35,4.999856059,,No,2,42.7437772
+Chromis,Pomacentridae,East Coast,Fall,Yes,April,December,1.91,2789,41.13,7.662589758,,No,3,100
+Sea Bass,Serranidae,East Coast,Winter,Yes,October,November,2.41,1870,5.99,3.939135759,Climate Change,No,2,100
+Char,Salmonidae,Both Coasts,Winter,No,December,September,3.28,875,31.71,10.29574926,Pollution,Yes,7,100
+Grouper,Serranidae,East Coast,Winter,Yes,January,May,0.62,531,41.11,13.2427401,Overfishing,Yes,8,49.80214044
+Plaice,Pleuronectidae,West Coast,Winter,Yes,August,November,1.54,1823,48.93,4.100281013,Pollution,No,2,61.77393729
+Chromis,Pomacentridae,East Coast,Spring,Yes,June,September,2.86,1940,38.94,2.119134079,Pollution,No,4,100
+Sergeant Major,Pomacentridae,East Coast,Summer,Yes,February,March,1.35,2595,37.66,6.782726897,Habitat Destruction,No,3,57.63410544
+Tuna,Scombridae,West Coast,Fall,No,February,March,3.78,1892,45.03,2.589746023,Climate Change,No,4,100
+Salmon,Salmonidae,Both Coasts,Spring,No,May,April,3.52,211,19.11,18.40840238,,Yes,9,64.96451313
+Tuna,Scombridae,West Coast,Summer,No,September,April,2.75,1563,32.21,6.91414794,Pollution,No,4,26.75785707
+Sea Bass,Serranidae,East Coast,Spring,No,September,December,0.47,2095,3,6.77498753,,No,1,100
+Halibut,Pleuronectidae,West Coast,Spring,No,January,September,4.24,246,41.69,19.61726359,Climate Change,Yes,8,72.09699966
+Emperor,Lutjanidae,West Coast,Fall,Yes,May,February,2.26,2152,19,6.200327683,Pollution,No,4,35.79798033
+Grouper,Serranidae,East Coast,Fall,Yes,January,June,0.18,2180,19.16,4.157937373,Overfishing,No,1,100
+Bonito,Scombridae,West Coast,Winter,Yes,January,February,0.36,393,24.92,16.7198727,Climate Change,Yes,9,52.25827058
+Kingfish,Scombridae,West Coast,Spring,Yes,April,May,4.03,465,23.05,17.37781081,Pollution,Yes,10,47.30132366
+Bonito,Scombridae,West Coast,Winter,Yes,April,October,0.77,1316,3.72,11.07113153,Pollution,No,6,100
+Emperor,Lutjanidae,West Coast,Winter,No,March,August,1.04,1648,19.87,5.698939598,Habitat Destruction,No,4,85.13911634
+Anthias,Serranidae,East Coast,Spring,No,January,October,4.49,217,19.78,19.09613865,Pollution,Yes,10,100
+Snapper,Lutjanidae,West Coast,Winter,No,December,November,3.69,649,37.55,13.78361611,Pollution,Yes,8,59.11352706
+Emperor,Lutjanidae,West Coast,Fall,Yes,December,June,0.98,1043,1.01,8.166713782,Pollution,No,7,54.2560473
+Comber,Serranidae,East Coast,Summer,Yes,March,May,1.35,1856,7.1,7.563458637,Pollution,No,1,65.40712313
+Jobfish,Lutjanidae,West Coast,Summer,No,February,April,0.46,2119,49.31,6.916099564,Pollution,No,1,100
+Sole,Pleuronectidae,West Coast,Winter,Yes,March,September,2.98,1502,5.28,7.493913666,Overfishing,No,1,100
+Comber,Serranidae,East Coast,Summer,No,April,August,1.98,231,9.77,18.63359346,,Yes,8,100
+Plaice,Pleuronectidae,West Coast,Fall,Yes,June,August,0.25,231,23.24,17.23696506,Overfishing,Yes,10,100
+Trout,Salmonidae,Both Coasts,Summer,No,May,October,2.51,1858,37.55,5.689806831,Pollution,No,4,35.40980347
+Emperor,Lutjanidae,West Coast,Summer,No,April,November,3.3,2709,7.02,6.935569715,Overfishing,No,2,100
+Damselfish,Pomacentridae,East Coast,Winter,No,February,November,2.58,318,12.61,17.58504761,Climate Change,Yes,9,100
+Plaice,Pleuronectidae,West Coast,Fall,No,June,January,4.7,1527,33.29,7.3022834,Pollution,No,4,100
+Bonito,Scombridae,West Coast,Fall,Yes,October,March,2.58,1478,31.2,10.9044001,Overfishing,Yes,5,100
+Tuna,Scombridae,West Coast,Summer,No,October,December,2.53,2655,39.1,4.879114214,,No,4,100
+Flounder,Pleuronectidae,West Coast,Winter,No,August,December,3.61,2392,31.94,5.388961013,Climate Change,No,3,100
+Flounder,Pleuronectidae,West Coast,Spring,No,February,October,2.73,1290,9.6,8.220394317,Climate Change,No,6,75.87377788
+Anthias,Serranidae,East Coast,Fall,No,February,October,3.08,2936,7.35,4.162252715,Pollution,No,3,49.39186067
+Sole,Pleuronectidae,West Coast,Winter,No,September,January,1.78,598,9.67,18.04760467,Pollution,Yes,8,100
+Clownfish,Pomacentridae,East Coast,Fall,Yes,February,March,2.39,1182,1.79,11.64984128,Pollution,No,6,100
+Plaice,Pleuronectidae,West Coast,Fall,No,March,May,0.23,278,12.99,12.33063094,,Yes,8,47.91612445
+Anthias,Serranidae,East Coast,Summer,No,August,May,1.21,2819,5.73,2.78088431,Overfishing,No,3,100
+,,,,,,,,,,,,,,
+Sole,Pleuronectidae,West Coast,Winter,Yes,September,June,3.99,641,29.19,15.4336844,,Yes,10,100
+Tuna,Scombridae,West Coast,Summer,No,September,February,3.06,894,28.14,9.817313726,Habitat Destruction,No,6,11.5695283
+Anthias,Serranidae,East Coast,Winter,Yes,April,December,4.17,358,19.87,14.30816819,Habitat Destruction,Yes,9,30.65613151
+Grayling,Salmonidae,Both Coasts,Summer,Yes,August,June,3.65,2098,38.87,4.256499464,Climate Change,No,3,69.77064923
+Mackerel,Scombridae,West Coast,Spring,No,April,February,0.27,1380,11.43,8.611560815,Pollution,No,5,100
+Plaice,Pleuronectidae,West Coast,Winter,No,July,December,3.06,761,43.82,14.34331895,Overfishing,Yes,10,52.5937383
+Emperor,Lutjanidae,West Coast,Summer,No,July,February,3.11,2965,9.63,5.008319865,Overfishing,No,2,100
+Kingfish,Scombridae,West Coast,Fall,No,December,February,2.06,388,26.57,16.00685469,,Yes,10,100
+Jobfish,Lutjanidae,West Coast,Summer,No,May,October,4.07,310,13.85,13.4776597,,Yes,10,100
+Damselfish,Pomacentridae,East Coast,Summer,No,July,March,3.11,1265,13.18,9.179267078,Overfishing,No,6,100
+Sole,Pleuronectidae,West Coast,Summer,No,January,September,3.18,522,23.89,18.65554794,Climate Change,Yes,9,52.38506971
+Salmon,Salmonidae,Both Coasts,Spring,No,May,July,1.7,1340,28.76,11.12984059,Habitat Destruction,Yes,5,100
+Plaice,Pleuronectidae,West Coast,Spring,No,May,December,3.76,2881,8.73,5.178907942,Habitat Destruction,No,2,28.68172929
+Snapper,Lutjanidae,West Coast,Winter,No,February,April,0.42,1957,22.14,7.091861528,,No,4,100
+Bonito,Scombridae,West Coast,Fall,Yes,April,June,1.67,875,46.67,10.35128658,Pollution,Yes,5,75.41242474
+Plaice,Pleuronectidae,West Coast,Spring,Yes,September,May,4.84,2892,6.68,6.698500897,,No,2,40.07865421
+Comber,Serranidae,East Coast,Fall,No,December,June,4.42,2883,25.71,7.654305069,Overfishing,No,3,66.15764592
+Grayling,Salmonidae,Both Coasts,Winter,Yes,March,August,4.73,1158,6.44,9.51321839,Pollution,No,5,100
+Flounder,Pleuronectidae,West Coast,Fall,Yes,January,June,1.4,975,49.37,8.928248565,Habitat Destruction,Yes,6,100
+Sea Bass,Serranidae,East Coast,Summer,Yes,February,July,3.44,1636,1.97,6.53396129,Pollution,No,3,100
+Salmon,Salmonidae,Both Coasts,Spring,Yes,July,October,1.52,439,8.98,19.67910066,Pollution,Yes,8,50.21998571
+Emperor,Lutjanidae,West Coast,Spring,Yes,April,November,4.41,2046,4.42,5.22797282,Habitat Destruction,No,3,100
+Salmon,Salmonidae,Both Coasts,Summer,Yes,December,August,2.96,2818,2.17,3.04847871,Habitat Destruction,No,4,100
+Damselfish,Pomacentridae,East Coast,Spring,Yes,April,February,2.22,655,11.36,12.13892265,Climate Change,Yes,10,100
+Chromis,Pomacentridae,East Coast,Winter,No,January,February,4.2,1271,27.59,8.87781497,Climate Change,No,5,100
+Kingfish,Scombridae,West Coast,Spring,No,August,April,4.22,692,15.71,19.93371625,,Yes,9,53.35523852
+Sea Bass,Serranidae,East Coast,Winter,No,January,July,4.33,777,20.67,14.85223577,Habitat Destruction,Yes,8,100
+Anthias,Serranidae,East Coast,Spring,Yes,November,June,0.32,354,6.08,12.92115232,Pollution,Yes,8,100
+Jobfish,Lutjanidae,West Coast,Fall,Yes,April,August,2.4,2579,4.8,2.187524932,Overfishing,No,4,80.68047229
+Anthias,Serranidae,East Coast,Summer,No,October,March,1.73,2304,1.84,7.028719918,Overfishing,No,2,100
+Bonito,Scombridae,West Coast,Winter,Yes,January,September,3.44,1240,46.24,9.029392388,Habitat Destruction,No,6,100
+Grouper,Serranidae,East Coast,Fall,Yes,September,December,0.62,1437,26.04,8.381634158,Overfishing,No,6,100
+Grouper,Serranidae,East Coast,Fall,Yes,August,July,1.03,1809,30,2.040107616,Overfishing,No,4,100
+Kingfish,Scombridae,West Coast,Winter,No,April,September,3.71,1033,18.94,10.90433083,Overfishing,No,5,100
+Clownfish,Pomacentridae,East Coast,Spring,No,November,October,1.6,850,32.95,9.538300005,Climate Change,Yes,7,76.99078541
+Trout,Salmonidae,Both Coasts,Fall,No,September,November,0.98,1488,49.64,8.081152628,,No,7,54.23230855
+Grouper,Serranidae,East Coast,Winter,No,June,May,1.22,2825,16.22,4.039192364,Overfishing,No,4,100
+Trout,Salmonidae,Both Coasts,Spring,No,August,November,0.69,961,21.11,11.70907974,Overfishing,Yes,6,58.17178897
+Flounder,Pleuronectidae,West Coast,Fall,Yes,July,January,1.75,737,27.53,19.02784495,,Yes,9,100
+Tuna,Scombridae,West Coast,Fall,Yes,August,March,1.84,1801,9.49,5.982179322,Climate Change,No,3,100
+Sea Bass,Serranidae,East Coast,Fall,Yes,March,October,0.64,315,47.83,14.63597035,,Yes,8,89.10523549
+Chromis,Pomacentridae,East Coast,Winter,No,January,July,2.13,909,7.18,10.49158388,Climate Change,Yes,5,97.86347756
+Flounder,Pleuronectidae,West Coast,Spring,Yes,March,December,4.54,2730,13.12,5.215127855,Habitat Destruction,No,2,100
+Flounder,Pleuronectidae,West Coast,Winter,Yes,November,January,1.29,212,44.75,14.622456,Overfishing,Yes,9,100
+Mahogany Snapper,Lutjanidae,West Coast,Summer,Yes,July,September,3.17,1573,23.28,3.301191375,Climate Change,No,3,100
+Bonito,Scombridae,West Coast,Spring,No,April,June,2.73,1675,3.53,7.108913805,Climate Change,No,2,71.02236604
+Mahogany Snapper,Lutjanidae,West Coast,Spring,Yes,May,July,1.41,2923,48.54,6.333333043,Pollution,No,1,100
+Sole,Pleuronectidae,West Coast,Fall,Yes,December,November,2.69,1528,16.68,4.906086982,Climate Change,No,4,63.76937552
+Mackerel,Scombridae,West Coast,Summer,No,April,May,4.66,712,3.02,15.28504161,Overfishing,Yes,8,35.72789368
